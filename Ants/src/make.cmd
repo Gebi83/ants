@@ -1,11 +1,10 @@
 @echo off
-set CLASSPATH=!CLASSPATH!;./bin
 rem clean
-del "./bin/*"
+del *.class
 del MyBot.jar
 rem compile
-javac ./src/ant/*.java
+javac MyBot.java
 rem package
-jar cvfm MyBot.jar Manifest.txt "./bin/*" 
+jar cvfm MyBot.jar Manifest.txt *.class 
 rem clean
-del "./bin/*"
+del *.class
