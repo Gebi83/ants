@@ -1,3 +1,4 @@
+package ant;
 /**
  * Represents a tile of the game map.
  */
