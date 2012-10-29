@@ -3,7 +3,7 @@ rem clean
 del *.class
 del MyBot.jar
 rem compile
-javac MyBot.java
+javac *.java
 rem package
 jar cvfm MyBot.jar Manifest.txt *.class 
 rem clean

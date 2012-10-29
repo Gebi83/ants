@@ -1,1 +1,1 @@
-Main-Class: ant.MyBot
+Main-Class: MyBot
