@@ -26,7 +26,8 @@ public class GebiBot extends Bot {
 	private Set<Tile> unseenTiles;//TODO other technique to watch this.
 	
 	private Set<Tile> enemyHills = new HashSet<Tile>();
-
+	
+	private List<Ant> myAntList = new ArrayList<Ant>();
 
 	/**
 	 * Main method executed by the game engine for starting the bot.
@@ -47,6 +48,9 @@ public class GebiBot extends Bot {
 	public void doTurn() {
 
 		Ants ants = getAnts();
+		
+		createAntList(ants);
+		
 		orders.clear();
 
 		// prevent stepping on own hill
@@ -146,6 +150,32 @@ public class GebiBot extends Bot {
 				}
 			}
 		}
+	}
+
+	/**
+	 * creates or modifies the list with all my ants.
+	 * checks if new ants are alive.
+	 * checks if old ants are still alive.
+	 * deletes dead ants or adds new ants to myAntList.
+	 * @param ants
+	 */
+	private void createAntList(Ants ants) {
+		
+		List<Tile> oldAnts = getAntPositions();
+		
+		TreeSet<Tile> sortedAnts = new TreeSet<Tile>(ants.getMyAnts());
+		
+		
+	}
+
+	/**
+	 * 
+	 * @return the position of all ants in myAntList.
+	 */
+	private List<Tile> getAntPositions() {
+		
+		List<Tile> antPositions = new ArrayList<Tile>();//TODO
+		return null;
 	}
 
 	/**
