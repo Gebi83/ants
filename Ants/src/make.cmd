@@ -1,10 +1,10 @@
 @echo off
 rem clean
 del *.class
-del MyBot.jar
+del GebiBot.jar
 rem compile
 javac *.java
 rem package
-jar cvfm MyBot.jar Manifest.txt *.class 
+jar cvfm GebiBot.jar Manifest.txt *.class 
 rem clean
 del *.class
