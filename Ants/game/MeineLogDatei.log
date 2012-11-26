@@ -1,728 +1,772 @@
-0    ERROR [main]                               GebiBot     - Test
-189  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 27 19
-190  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 27 19] || newLoc: 28 18
-190  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 27 19] || newLoc: 28 20
-191  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20, 27 19] || newLoc: 29 19
-239  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 27 18
-240  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 27 18] || newLoc: 27 20
-272  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 28 18
-273  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19] || newLoc: 28 20
-273  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20] || newLoc: 29 19
-309  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 29 19, 28 20] || newLoc: 28 17
-312  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 20
-312  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 20] || newLoc: 28 21
-352  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 30 20
-353  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 30 20] || newLoc: 29 21
-353  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 30 20] || newLoc: 29 17
-376  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 17, 30 20] || newLoc: 29 19
-377  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 19, 29 17, 30 20] || newLoc: 27 19
-378  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 19, 29 17, 27 19, 30 20] || newLoc: 28 20
-379  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 19, 28 20, 29 17, 27 19, 30 20] || newLoc: 28 18
-459  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 29 21, 29 19, 28 20, 29 17, 27 19, 30 20] || newLoc: 30 17
-462  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 31 20
-463  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 31 20] || newLoc: 30 21
-464  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 31 20, 30 21] || newLoc: 30 19
-476  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 30 19, 31 20, 30 21] || newLoc: 27 19
-477  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 30 19, 31 20, 27 19, 30 21] || newLoc: 28 20
-478  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 28 20, 30 19, 31 20, 27 19, 30 21] || newLoc: 28 18
-552  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20, 30 19, 31 20, 27 19, 30 21] || newLoc: 31 17
-553  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20, 30 19, 31 20, 27 19, 31 17, 30 21] || newLoc: 31 19
-555  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 32 20
-555  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19] || newLoc: 31 21
-556  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 31 21] || newLoc: 31 19
-566  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 31 21, 31 19] || newLoc: 26 19
-567  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 26 19, 31 21, 31 19] || newLoc: 27 18
-568  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 26 19, 31 21, 27 18, 31 19] || newLoc: 27 20
-630  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 26 19, 27 20, 31 21, 27 18, 31 19] || newLoc: 32 17
-631  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 32 17, 26 19, 27 20, 31 21, 27 18, 31 19] || newLoc: 32 19
-633  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 33 20
-634  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 33 20] || newLoc: 32 21
-635  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 33 20] || newLoc: 32 19
-644  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 33 20, 32 19] || newLoc: 25 19
-645  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19] || newLoc: 26 20
-646  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19, 26 20] || newLoc: 26 18
-648  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19, 26 18, 26 20] || newLoc: 27 19
-717  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19, 26 18, 27 19, 26 20] || newLoc: 33 17
-718  DEBUG [main]                               GebiBot     - orders-keys: [33 17, 32 21, 28 19, 25 19, 33 20, 32 19, 26 18, 27 19, 26 20] || newLoc: 33 19
-720  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 34 20
-721  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 20] || newLoc: 33 21
-721  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 33 21, 34 20] || newLoc: 33 19
-729  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 33 19, 33 21, 34 20] || newLoc: 24 19
-730  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 33 19, 33 21, 34 20] || newLoc: 25 20
-730  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 33 21, 34 20] || newLoc: 25 18
-732  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 25 18, 33 21, 34 20] || newLoc: 26 19
-820  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 25 18, 33 21, 26 19, 34 20] || newLoc: 34 17
-821  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 25 18, 33 21, 26 19, 34 20, 34 17] || newLoc: 34 19
-823  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 20
-823  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 20] || newLoc: 34 21
-824  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 21, 35 20] || newLoc: 34 19
-831  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 21, 35 20, 34 19] || newLoc: 23 19
-832  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 21, 23 19, 35 20, 34 19] || newLoc: 24 20
-833  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 20, 34 21, 23 19, 35 20, 34 19] || newLoc: 24 18
-835  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 24 20, 34 21, 23 19, 35 20, 34 19] || newLoc: 25 19
-924  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 25 19, 24 20, 34 21, 23 19, 35 20, 34 19] || newLoc: 35 17
-925  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 25 19, 24 20, 35 17, 34 21, 23 19, 35 20, 34 19] || newLoc: 35 19
-927  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 21
-928  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 21] || newLoc: 35 19
-933  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 19, 35 21] || newLoc: 23 18
-933  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 19, 35 21, 23 18] || newLoc: 23 20
-934  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 19, 23 20, 35 21, 23 18] || newLoc: 24 19
-981  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 35 19, 23 20, 35 21, 23 18] || newLoc: 35 16
-982  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 35 16, 35 19, 23 20, 35 21, 23 18] || newLoc: 35 18
-982  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 22
-983  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 22] || newLoc: 35 20
-988  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 20, 35 22] || newLoc: 24 18
-988  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 35 20, 35 22] || newLoc: 23 19
-1003 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 23 19, 35 20, 35 22] || newLoc: 27 19
-1004 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 23 19, 27 19, 35 20, 35 22] || newLoc: 28 20
-1005 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 28 20, 23 19, 27 19, 35 20, 35 22] || newLoc: 29 19
-1005 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 29 19, 28 20, 23 19, 27 19, 35 20, 35 22] || newLoc: 28 18
-1058 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 24 18, 28 19, 29 19, 28 20, 23 19, 27 19, 35 20, 35 22] || newLoc: 35 15
-1060 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 24 18, 28 19, 29 19, 28 20, 35 15, 23 19, 27 19, 35 20, 35 22] || newLoc: 35 17
-1061 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 23
-1062 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 23] || newLoc: 35 21
-1067 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 21, 35 23] || newLoc: 24 17
-1068 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 17, 35 21, 35 23] || newLoc: 23 18
-1069 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 17, 35 21, 23 18, 35 23] || newLoc: 24 19
-1070 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 35 21, 23 18, 35 23] || newLoc: 25 18
-1084 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 35 21, 23 18, 35 23] || newLoc: 26 19
-1085 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 26 19, 35 21, 23 18, 35 23] || newLoc: 27 20
-1086 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 26 19, 27 20, 35 21, 23 18, 35 23] || newLoc: 27 18
-1128 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 26 19, 27 20, 27 18, 35 21, 23 18, 35 23] || newLoc: 35 14
-1129 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 35 14, 26 19, 27 20, 27 18, 35 21, 23 18, 35 23] || newLoc: 35 16
-1130 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 24
-1130 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19] || newLoc: 35 22
-1133 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19, 35 22] || newLoc: 24 16
-1134 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19, 24 16, 35 22] || newLoc: 25 17
-1134 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19, 24 16, 25 17, 35 22] || newLoc: 24 18
-1140 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 17, 35 22] || newLoc: 25 19
-1141 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 35 22] || newLoc: 26 20
-1142 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 26 20, 35 22] || newLoc: 27 19
-1143 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 27 19, 26 20, 35 22] || newLoc: 26 18
-1190 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 26 18, 27 19, 26 20, 35 22] || newLoc: 35 13
-1190 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 35 13, 25 19, 25 17, 26 18, 27 19, 26 20, 35 22] || newLoc: 35 15
-1193 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 16
-1194 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 16] || newLoc: 24 15
-1194 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 15, 23 16] || newLoc: 25 16
-1195 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 25 16, 24 15, 23 16] || newLoc: 24 17
-1198 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 17, 25 16, 24 15, 23 16] || newLoc: 24 19
-1199 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 16, 24 15, 23 16] || newLoc: 25 20
-1199 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 16, 24 15, 23 16] || newLoc: 26 19
-1200 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 16, 26 19, 24 15, 23 16] || newLoc: 25 18
-1203 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 18, 25 16, 26 19, 24 15, 23 16] || newLoc: 36 24
-1203 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 18, 25 16, 26 19, 24 15, 36 24, 23 16] || newLoc: 35 25
-1204 DEBUG [main]                               GebiBot     - orders-keys: [35 25, 24 19, 28 19, 25 20, 24 17, 25 18, 25 16, 26 19, 24 15, 36 24, 23 16] || newLoc: 34 24
-1205 DEBUG [main]                               GebiBot     - orders-keys: [35 25, 24 19, 28 19, 25 20, 24 17, 25 18, 34 24, 25 16, 26 19, 24 15, 36 24, 23 16] || newLoc: 35 23
-1247 DEBUG [main]                               GebiBot     - orders-keys: [35 25, 24 19, 28 19, 25 20, 24 17, 25 18, 34 24, 25 16, 26 19, 24 15, 36 24, 35 23, 23 16] || newLoc: 35 14
-1248 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 12
-1250 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12] || newLoc: 22 16
-1250 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16] || newLoc: 23 15
-1251 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 15] || newLoc: 24 16
-1253 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 15, 24 16] || newLoc: 24 20
-1253 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 15, 24 16, 24 20] || newLoc: 23 19
-1254 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 23 15, 24 16, 24 20] || newLoc: 25 19
-1255 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 23 15, 24 16, 25 19, 24 20] || newLoc: 24 18
-1257 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20] || newLoc: 27 19
-1258 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 28 20
-1258 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 28 20, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 28 18
-1259 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 28 20, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 29 19
-1261 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 37 24
-1262 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 37 24, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 36 25
-1263 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 35 24
-1264 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 35 24, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 36 23
-1311 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 36 23, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 35 24, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 35 11
-1311 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 36 23, 35 11, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 35 24, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 35 13
-1312 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 19
-1313 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19] || newLoc: 21 16
-1313 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 21 16] || newLoc: 23 20
-1314 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 21 16, 23 20] || newLoc: 26 19
-1314 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 21 16, 23 20, 26 19] || newLoc: 38 24
-1374 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 38 24, 29 19, 21 16, 23 20, 26 19] || newLoc: 35 10
-1375 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 38 24, 29 19, 21 16, 23 20, 26 19] || newLoc: 20 16
-1375 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 23 20, 26 19] || newLoc: 23 19
-1376 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 23 20, 23 19, 26 19] || newLoc: 25 19
-1376 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 23 20, 23 19, 25 19, 26 19] || newLoc: 30 19
-1376 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 30 19, 23 20, 23 19, 25 19, 26 19] || newLoc: 39 24
-1377 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 12
-1417 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12] || newLoc: 35 9
-1418 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 12] || newLoc: 35 11
-1419 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12] || newLoc: 19 16
-1419 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12, 19 16] || newLoc: 24 19
-1420 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12, 24 19, 19 16] || newLoc: 31 19
-1421 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12, 31 19, 24 19, 19 16] || newLoc: 40 24
-1422 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 24 19
-1479 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 19] || newLoc: 35 8
-1480 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 24 19] || newLoc: 35 10
-1480 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 10, 24 19] || newLoc: 18 16
-1481 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 10, 24 19, 18 16] || newLoc: 32 19
-1481 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 10, 24 19, 32 19, 18 16] || newLoc: 41 24
-1523 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 7
-1524 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 7] || newLoc: 35 9
-1524 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 7] || newLoc: 17 16
-1524 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 7, 17 16] || newLoc: 33 19
-1525 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 7, 33 19, 17 16] || newLoc: 42 24
-1559 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 6
-1560 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 6] || newLoc: 35 8
-1560 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 6] || newLoc: 34 19
-1560 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 6, 34 19] || newLoc: 0 24
-1587 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 5
-1588 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5] || newLoc: 35 7
-1588 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 35 7] || newLoc: 35 19
-1588 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 35 7, 35 19] || newLoc: 1 24
-1617 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 6
-1617 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 6] || newLoc: 35 18
-1617 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 6, 35 18] || newLoc: 2 24
-1618 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 19
-1618 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19] || newLoc: 36 5
-1640 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 36 5] || newLoc: 37 5
-1641 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 36 5, 37 5] || newLoc: 35 5
-1641 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 35 5, 36 5, 37 5] || newLoc: 35 17
-1642 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 35 5, 36 5, 37 5, 35 17] || newLoc: 3 24
-1642 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 35 5, 36 5, 3 24, 37 5, 35 17] || newLoc: 30 19
-1671 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 38 5
-1671 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 38 5] || newLoc: 35 16
-1672 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 16, 38 5] || newLoc: 4 24
-1672 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 4 24, 35 16, 38 5] || newLoc: 31 19
-1673 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 36 5
-1703 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5] || newLoc: 39 5
-1704 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5, 39 5] || newLoc: 37 5
-1704 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5, 37 5, 39 5] || newLoc: 35 15
-1705 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 15, 36 5, 37 5, 39 5] || newLoc: 5 24
-1705 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 15, 5 24, 36 5, 37 5, 39 5] || newLoc: 32 19
-1741 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 40 5
-1742 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19] || newLoc: 38 5
-1743 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 38 5] || newLoc: 35 14
-1744 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 35 14, 38 5] || newLoc: 6 24
-1745 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 6 24, 28 19, 35 14, 38 5] || newLoc: 33 19
-1780 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 41 5
-1781 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5] || newLoc: 39 5
-1781 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 39 5] || newLoc: 35 13
-1782 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 35 13, 39 5] || newLoc: 7 24
-1782 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 7 24, 35 13, 39 5] || newLoc: 34 19
-1813 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 42 5
-1814 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 42 5] || newLoc: 40 5
-1814 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 42 5] || newLoc: 35 12
-1814 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 35 12, 42 5] || newLoc: 8 24
-1815 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 35 12, 42 5, 8 24] || newLoc: 35 19
-1845 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 0 5
-1845 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5] || newLoc: 41 5
-1845 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 0 5] || newLoc: 35 11
-1846 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 11, 41 5, 0 5] || newLoc: 9 24
-1846 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 11, 41 5, 0 5, 9 24] || newLoc: 36 19
-1847 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 19
-1876 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19] || newLoc: 1 5
-1877 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 29 19] || newLoc: 42 5
-1877 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 29 19, 42 5] || newLoc: 35 10
-1877 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 35 10, 29 19, 42 5] || newLoc: 10 24
-1878 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 35 10, 29 19, 42 5, 10 24] || newLoc: 37 19
-1878 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 37 19, 35 10, 29 19, 42 5, 10 24] || newLoc: 30 19
-1916 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 2 5
-1917 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5] || newLoc: 0 5
-1917 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5, 2 5] || newLoc: 35 9
-1918 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 0 5, 2 5] || newLoc: 11 24
-1918 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 0 5, 2 5, 11 24] || newLoc: 38 19
-1918 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 0 5, 2 5, 38 19, 11 24] || newLoc: 31 19
-1954 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 3 5
-1954 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5] || newLoc: 1 5
-1955 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 3 5] || newLoc: 35 8
-1955 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 1 5, 28 19, 3 5] || newLoc: 12 24
-1955 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 1 5, 28 19, 12 24, 3 5] || newLoc: 39 19
-1956 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 1 5, 28 19, 12 24, 3 5, 39 19] || newLoc: 32 19
-1986 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 4 5
-1986 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 4 5] || newLoc: 2 5
-1987 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5, 4 5] || newLoc: 35 7
-1987 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5, 35 7, 4 5] || newLoc: 13 24
-1988 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 13 24, 2 5, 35 7, 4 5] || newLoc: 40 19
-1988 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 13 24, 2 5, 35 7, 4 5, 40 19] || newLoc: 33 19
-2022 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 5 5
-2022 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 5] || newLoc: 3 5
-2022 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5, 5 5] || newLoc: 35 6
-2023 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5, 35 6, 5 5] || newLoc: 14 24
-2023 DEBUG [main]                               GebiBot     - orders-keys: [14 24, 28 19, 3 5, 35 6, 5 5] || newLoc: 41 19
-2023 DEBUG [main]                               GebiBot     - orders-keys: [14 24, 28 19, 3 5, 35 6, 5 5, 41 19] || newLoc: 34 19
-2056 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 6 5
-2057 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 6 5] || newLoc: 4 5
-2057 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 4 5, 6 5] || newLoc: 35 5
-2058 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 4 5, 6 5] || newLoc: 14 23
-2058 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 14 23, 4 5, 6 5] || newLoc: 41 20
-2058 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 14 23, 41 20, 4 5, 6 5] || newLoc: 35 19
-2081 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 7 5
-2081 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 7 5] || newLoc: 5 5
-2081 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 5, 7 5] || newLoc: 41 21
-2082 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 5, 41 21, 7 5] || newLoc: 36 19
-2082 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 36 5
-2111 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5] || newLoc: 8 5
-2111 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5] || newLoc: 6 5
-2111 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5, 6 5] || newLoc: 37 5
-2112 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5, 37 5, 6 5] || newLoc: 41 22
-2112 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5, 37 5, 41 22, 6 5] || newLoc: 37 19
-2112 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 27 19
-2142 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 27 19] || newLoc: 9 5
-2142 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 27 19] || newLoc: 7 5
-2142 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 7 5, 27 19] || newLoc: 38 5
-2144 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 38 5, 7 5, 27 19] || newLoc: 41 23
-2144 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 41 23, 38 5, 7 5, 27 19] || newLoc: 38 19
-2145 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 38 19, 41 23, 38 5, 7 5, 27 19] || newLoc: 26 19
-2165 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 10 5
-2165 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5] || newLoc: 39 5
-2165 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5, 39 5] || newLoc: 42 23
-2166 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5, 42 23, 39 5] || newLoc: 39 19
-2166 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 39 19, 10 5, 42 23, 39 5] || newLoc: 25 19
-2167 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 8 5
-2196 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5] || newLoc: 11 5
-2196 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 11 5] || newLoc: 9 5
-2197 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 8 5, 11 5] || newLoc: 40 5
-2197 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 9 5, 28 19, 8 5, 11 5] || newLoc: 0 23
-2197 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 9 5, 28 19, 8 5, 11 5, 0 23] || newLoc: 40 19
-2198 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 9 5, 28 19, 8 5, 11 5, 0 23, 40 19] || newLoc: 24 19
-2226 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 12 5
-2227 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 12 5] || newLoc: 10 5
-2227 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5, 12 5] || newLoc: 41 5
-2227 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 10 5, 12 5] || newLoc: 1 23
-2228 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 10 5, 1 23, 12 5] || newLoc: 41 19
-2228 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 10 5, 1 23, 41 19, 12 5] || newLoc: 23 19
-2248 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 13 5
-2248 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 13 5] || newLoc: 11 5
-2249 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 11 5, 13 5] || newLoc: 42 5
-2249 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 42 5, 11 5, 13 5] || newLoc: 2 23
-2249 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 42 5, 11 5, 13 5, 2 23] || newLoc: 41 18
-2250 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2250 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2250 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2281 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 14 5
-2281 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19, 14 5] || newLoc: 12 5
-2281 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19, 12 5, 14 5] || newLoc: 0 5
-2282 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5, 23 20, 23 18, 24 19, 12 5, 14 5] || newLoc: 3 23
-2282 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5, 23 20, 23 18, 24 19, 12 5, 3 23, 14 5] || newLoc: 41 17
-2282 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2304 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 6
-2304 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 6] || newLoc: 13 5
-2304 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 13 5, 14 6] || newLoc: 1 5
-2305 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 23 19, 13 5, 14 6] || newLoc: 4 23
-2305 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 4 23, 23 19, 13 5, 14 6] || newLoc: 41 16
-2305 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 4 23, 23 19, 41 16, 13 5, 14 6] || newLoc: 23 18
-2332 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 14 7
-2332 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 14 7] || newLoc: 14 5
-2333 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 14 5, 14 7] || newLoc: 2 5
-2333 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5, 14 5, 14 7] || newLoc: 5 23
-2333 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 23, 2 5, 14 5, 14 7] || newLoc: 41 15
-2334 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2353 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 8
-2353 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 8] || newLoc: 14 6
-2354 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 8, 14 6] || newLoc: 3 5
-2354 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5, 23 19, 14 8, 14 6] || newLoc: 42 15
-2354 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 18
-2374 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18] || newLoc: 14 9
-2374 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9] || newLoc: 14 7
-2375 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 14 7] || newLoc: 4 5
-2375 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 4 5, 14 7] || newLoc: 0 15
-2376 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2396 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 10
-2398 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 10] || newLoc: 14 8
-2398 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 8, 14 10] || newLoc: 5 5
-2398 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 5 5, 14 8, 14 10] || newLoc: 1 15
-2399 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 18
-2417 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18] || newLoc: 14 11
-2417 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 11] || newLoc: 14 9
-2418 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 14 11] || newLoc: 6 5
-2418 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 14 11, 6 5] || newLoc: 2 15
-2418 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2447 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 12
-2447 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 12] || newLoc: 14 10
-2447 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 10, 14 12] || newLoc: 7 5
-2448 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 10, 14 12, 7 5] || newLoc: 3 15
-2448 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 18
-2467 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18] || newLoc: 14 11
-2467 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 11] || newLoc: 8 5
-2468 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 23 18, 14 11] || newLoc: 4 15
-2468 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2486 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 12
-2486 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 12] || newLoc: 9 5
-2486 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 23 19, 14 12] || newLoc: 5 15
-2487 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2487 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2487 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2511 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 14 13
-2512 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19, 14 13] || newLoc: 10 5
-2512 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 10 5, 23 18, 24 19, 14 13] || newLoc: 6 15
-2513 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2536 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 14
-2536 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 14] || newLoc: 11 5
-2537 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 11 5, 23 19, 14 14] || newLoc: 7 15
-2537 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2538 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2538 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2556 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 12 5
-2556 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2572 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 13 5
-2572 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2573 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2573 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2591 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 14 5
-2591 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2608 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 6
-2609 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 6] || newLoc: 23 18
-0    ERROR [main]                               GebiBot     - Test
-201  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 27 19
-201  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 27 19] || newLoc: 28 18
-202  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 27 19] || newLoc: 28 20
-202  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20, 27 19] || newLoc: 29 19
-249  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 27 18
-250  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 27 18] || newLoc: 27 20
-286  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 28 18
-287  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19] || newLoc: 28 20
-287  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20] || newLoc: 29 19
-322  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 29 19, 28 20] || newLoc: 28 17
-324  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 20
-324  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 20] || newLoc: 28 21
-366  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 30 20
-367  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 30 20] || newLoc: 29 21
-368  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 30 20] || newLoc: 29 17
-393  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 17, 30 20] || newLoc: 29 19
-394  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 19, 29 17, 30 20] || newLoc: 27 19
-395  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 19, 29 17, 27 19, 30 20] || newLoc: 28 20
-396  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 21, 29 19, 28 20, 29 17, 27 19, 30 20] || newLoc: 28 18
-471  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 29 21, 29 19, 28 20, 29 17, 27 19, 30 20] || newLoc: 30 17
-473  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 31 20
-474  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 31 20] || newLoc: 30 21
-475  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 31 20, 30 21] || newLoc: 30 19
-493  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 30 19, 31 20, 30 21] || newLoc: 27 19
-494  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 30 19, 31 20, 27 19, 30 21] || newLoc: 28 20
-495  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 28 20, 30 19, 31 20, 27 19, 30 21] || newLoc: 28 18
-572  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20, 30 19, 31 20, 27 19, 30 21] || newLoc: 31 17
-573  DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 28 20, 30 19, 31 20, 27 19, 31 17, 30 21] || newLoc: 31 19
-575  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 32 20
-576  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19] || newLoc: 31 21
-577  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 31 21] || newLoc: 31 19
-592  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 31 21, 31 19] || newLoc: 26 19
-593  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 26 19, 31 21, 31 19] || newLoc: 27 18
-594  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 26 19, 31 21, 27 18, 31 19] || newLoc: 27 20
-665  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 26 19, 27 20, 31 21, 27 18, 31 19] || newLoc: 32 17
-666  DEBUG [main]                               GebiBot     - orders-keys: [32 20, 28 19, 32 17, 26 19, 27 20, 31 21, 27 18, 31 19] || newLoc: 32 19
-668  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 33 20
-668  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 33 20] || newLoc: 32 21
-669  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 33 20] || newLoc: 32 19
-679  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 33 20, 32 19] || newLoc: 25 19
-680  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19] || newLoc: 26 20
-681  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19, 26 20] || newLoc: 26 18
-682  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19, 26 18, 26 20] || newLoc: 27 19
-747  DEBUG [main]                               GebiBot     - orders-keys: [32 21, 28 19, 25 19, 33 20, 32 19, 26 18, 27 19, 26 20] || newLoc: 33 17
-748  DEBUG [main]                               GebiBot     - orders-keys: [33 17, 32 21, 28 19, 25 19, 33 20, 32 19, 26 18, 27 19, 26 20] || newLoc: 33 19
-750  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 34 20
-751  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 20] || newLoc: 33 21
-752  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 33 21, 34 20] || newLoc: 33 19
-762  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 33 19, 33 21, 34 20] || newLoc: 24 19
-763  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 33 19, 33 21, 34 20] || newLoc: 25 20
-764  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 33 21, 34 20] || newLoc: 25 18
-766  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 25 18, 33 21, 34 20] || newLoc: 26 19
-865  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 25 18, 33 21, 26 19, 34 20] || newLoc: 34 17
-866  DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 33 19, 25 18, 33 21, 26 19, 34 20, 34 17] || newLoc: 34 19
-868  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 20
-869  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 20] || newLoc: 34 21
-869  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 21, 35 20] || newLoc: 34 19
-876  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 21, 35 20, 34 19] || newLoc: 23 19
-877  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 34 21, 23 19, 35 20, 34 19] || newLoc: 24 20
-878  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 20, 34 21, 23 19, 35 20, 34 19] || newLoc: 24 18
-879  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 24 20, 34 21, 23 19, 35 20, 34 19] || newLoc: 25 19
-949  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 25 19, 24 20, 34 21, 23 19, 35 20, 34 19] || newLoc: 35 17
-950  DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 25 19, 24 20, 35 17, 34 21, 23 19, 35 20, 34 19] || newLoc: 35 19
-951  DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 21
-951  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 21] || newLoc: 35 19
-955  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 19, 35 21] || newLoc: 23 18
-956  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 19, 35 21, 23 18] || newLoc: 23 20
-957  DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 19, 23 20, 35 21, 23 18] || newLoc: 24 19
-1006 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 35 19, 23 20, 35 21, 23 18] || newLoc: 35 16
-1006 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 35 16, 35 19, 23 20, 35 21, 23 18] || newLoc: 35 18
-1007 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 22
-1008 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 22] || newLoc: 35 20
-1012 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 20, 35 22] || newLoc: 24 18
-1012 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 35 20, 35 22] || newLoc: 23 19
-1026 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 23 19, 35 20, 35 22] || newLoc: 27 19
-1026 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 23 19, 27 19, 35 20, 35 22] || newLoc: 28 20
-1027 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 28 20, 23 19, 27 19, 35 20, 35 22] || newLoc: 29 19
-1028 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 28 19, 29 19, 28 20, 23 19, 27 19, 35 20, 35 22] || newLoc: 28 18
-1073 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 24 18, 28 19, 29 19, 28 20, 23 19, 27 19, 35 20, 35 22] || newLoc: 35 15
-1073 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 24 18, 28 19, 29 19, 28 20, 35 15, 23 19, 27 19, 35 20, 35 22] || newLoc: 35 17
-1074 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 23
-1075 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 23] || newLoc: 35 21
-1078 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 21, 35 23] || newLoc: 24 17
-1078 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 17, 35 21, 35 23] || newLoc: 23 18
-1079 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 17, 35 21, 23 18, 35 23] || newLoc: 24 19
-1080 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 35 21, 23 18, 35 23] || newLoc: 25 18
-1086 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 35 21, 23 18, 35 23] || newLoc: 26 19
-1087 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 26 19, 35 21, 23 18, 35 23] || newLoc: 27 20
-1088 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 26 19, 27 20, 35 21, 23 18, 35 23] || newLoc: 27 18
-1122 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 26 19, 27 20, 27 18, 35 21, 23 18, 35 23] || newLoc: 35 14
-1123 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 18, 35 14, 26 19, 27 20, 27 18, 35 21, 23 18, 35 23] || newLoc: 35 16
-1124 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 24
-1124 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19] || newLoc: 35 22
-1126 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19, 35 22] || newLoc: 24 16
-1127 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19, 24 16, 35 22] || newLoc: 25 17
-1127 DEBUG [main]                               GebiBot     - orders-keys: [35 24, 28 19, 24 16, 25 17, 35 22] || newLoc: 24 18
-1131 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 17, 35 22] || newLoc: 25 19
-1131 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 35 22] || newLoc: 26 20
-1132 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 26 20, 35 22] || newLoc: 27 19
-1132 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 27 19, 26 20, 35 22] || newLoc: 26 18
-1171 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 25 19, 25 17, 26 18, 27 19, 26 20, 35 22] || newLoc: 35 13
-1172 DEBUG [main]                               GebiBot     - orders-keys: [24 18, 35 24, 28 19, 24 16, 35 13, 25 19, 25 17, 26 18, 27 19, 26 20, 35 22] || newLoc: 35 15
-1174 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 16
-1175 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 16] || newLoc: 24 15
-1175 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 15, 23 16] || newLoc: 25 16
-1176 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 25 16, 24 15, 23 16] || newLoc: 24 17
-1178 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 17, 25 16, 24 15, 23 16] || newLoc: 24 19
-1179 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 24 17, 25 16, 24 15, 23 16] || newLoc: 25 20
-1180 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 16, 24 15, 23 16] || newLoc: 26 19
-1180 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 16, 26 19, 24 15, 23 16] || newLoc: 25 18
-1183 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 18, 25 16, 26 19, 24 15, 23 16] || newLoc: 36 24
-1184 DEBUG [main]                               GebiBot     - orders-keys: [24 19, 28 19, 25 20, 24 17, 25 18, 25 16, 26 19, 24 15, 36 24, 23 16] || newLoc: 35 25
-1184 DEBUG [main]                               GebiBot     - orders-keys: [35 25, 24 19, 28 19, 25 20, 24 17, 25 18, 25 16, 26 19, 24 15, 36 24, 23 16] || newLoc: 34 24
-1185 DEBUG [main]                               GebiBot     - orders-keys: [35 25, 24 19, 28 19, 25 20, 24 17, 25 18, 34 24, 25 16, 26 19, 24 15, 36 24, 23 16] || newLoc: 35 23
-1215 DEBUG [main]                               GebiBot     - orders-keys: [35 25, 24 19, 28 19, 25 20, 24 17, 25 18, 34 24, 25 16, 26 19, 24 15, 36 24, 35 23, 23 16] || newLoc: 35 14
-1215 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 12
-1217 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12] || newLoc: 22 16
-1217 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16] || newLoc: 23 15
-1218 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 15] || newLoc: 24 16
-1219 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 15, 24 16] || newLoc: 24 20
-1220 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 15, 24 16, 24 20] || newLoc: 23 19
-1220 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 23 15, 24 16, 24 20] || newLoc: 25 19
-1220 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 23 15, 24 16, 25 19, 24 20] || newLoc: 24 18
-1222 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20] || newLoc: 27 19
-1223 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 28 20
-1223 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12, 28 20, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 28 18
-1224 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 28 20, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 29 19
-1226 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 37 24
-1226 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 37 24, 22 16, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 36 25
-1226 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 35 24
-1227 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 35 24, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 36 23
-1273 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 36 23, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 35 24, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 35 11
-1273 DEBUG [main]                               GebiBot     - orders-keys: [28 18, 28 19, 36 23, 35 11, 35 12, 29 19, 28 20, 37 24, 22 16, 36 25, 23 19, 24 18, 35 24, 23 15, 24 16, 25 19, 24 20, 27 19] || newLoc: 35 13
-1274 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 19
-1275 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19] || newLoc: 21 16
-1275 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 21 16] || newLoc: 23 20
-1275 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 21 16, 23 20] || newLoc: 26 19
-1276 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 21 16, 23 20, 26 19] || newLoc: 38 24
-1328 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 38 24, 29 19, 21 16, 23 20, 26 19] || newLoc: 35 10
-1329 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 38 24, 29 19, 21 16, 23 20, 26 19] || newLoc: 20 16
-1329 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 23 20, 26 19] || newLoc: 23 19
-1330 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 23 20, 23 19, 26 19] || newLoc: 25 19
-1330 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 23 20, 23 19, 25 19, 26 19] || newLoc: 30 19
-1331 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 10, 20 16, 38 24, 29 19, 21 16, 30 19, 23 20, 23 19, 25 19, 26 19] || newLoc: 39 24
-1331 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 12
-1381 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 12] || newLoc: 35 9
-1381 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 12] || newLoc: 35 11
-1381 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12] || newLoc: 19 16
-1382 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12, 19 16] || newLoc: 24 19
-1382 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12, 24 19, 19 16] || newLoc: 31 19
-1382 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 11, 35 12, 31 19, 24 19, 19 16] || newLoc: 40 24
-1383 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 24 19
-1425 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 24 19] || newLoc: 35 8
-1426 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 24 19] || newLoc: 35 10
-1426 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 10, 24 19] || newLoc: 18 16
-1427 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 10, 24 19, 18 16] || newLoc: 32 19
-1427 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 10, 24 19, 32 19, 18 16] || newLoc: 41 24
-1473 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 7
-1473 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 7] || newLoc: 35 9
-1474 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 7] || newLoc: 17 16
-1474 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 7, 17 16] || newLoc: 33 19
-1474 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 35 7, 33 19, 17 16] || newLoc: 42 24
-1505 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 6
-1505 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 6] || newLoc: 35 8
-1506 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 6] || newLoc: 34 19
-1506 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 28 19, 35 6, 34 19] || newLoc: 0 24
-1541 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 5
-1541 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5] || newLoc: 35 7
-1541 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 35 7] || newLoc: 35 19
-1542 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 35 7, 35 19] || newLoc: 1 24
-1574 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 35 6
-1574 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 6] || newLoc: 35 18
-1575 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 6, 35 18] || newLoc: 2 24
-1575 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 19
-1576 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19] || newLoc: 36 5
-1600 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 36 5] || newLoc: 37 5
-1600 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 36 5, 37 5] || newLoc: 35 5
-1601 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 35 5, 36 5, 37 5] || newLoc: 35 17
-1601 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 35 5, 36 5, 37 5, 35 17] || newLoc: 3 24
-1601 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19, 35 5, 36 5, 3 24, 37 5, 35 17] || newLoc: 30 19
-1629 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 38 5
-1630 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 38 5] || newLoc: 35 16
-1630 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 16, 38 5] || newLoc: 4 24
-1631 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 4 24, 35 16, 38 5] || newLoc: 31 19
-1631 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 36 5
-1662 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5] || newLoc: 39 5
-1662 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5, 39 5] || newLoc: 37 5
-1663 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5, 37 5, 39 5] || newLoc: 35 15
-1663 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 15, 36 5, 37 5, 39 5] || newLoc: 5 24
-1664 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 15, 5 24, 36 5, 37 5, 39 5] || newLoc: 32 19
-1696 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 40 5
-1697 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19] || newLoc: 38 5
-1697 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 38 5] || newLoc: 35 14
-1698 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 35 14, 38 5] || newLoc: 6 24
-1698 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 6 24, 28 19, 35 14, 38 5] || newLoc: 33 19
-1733 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 41 5
-1734 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5] || newLoc: 39 5
-1734 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 39 5] || newLoc: 35 13
-1735 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 35 13, 39 5] || newLoc: 7 24
-1736 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 7 24, 35 13, 39 5] || newLoc: 34 19
-1765 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 42 5
-1766 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 42 5] || newLoc: 40 5
-1766 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 42 5] || newLoc: 35 12
-1766 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 35 12, 42 5] || newLoc: 8 24
-1767 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 28 19, 35 12, 42 5, 8 24] || newLoc: 35 19
-1802 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 0 5
-1802 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5] || newLoc: 41 5
-1803 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 0 5] || newLoc: 35 11
-1803 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 11, 41 5, 0 5] || newLoc: 9 24
-1803 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 11, 41 5, 0 5, 9 24] || newLoc: 36 19
-1804 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 29 19
-1839 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 29 19] || newLoc: 1 5
-1839 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 29 19] || newLoc: 42 5
-1840 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 29 19, 42 5] || newLoc: 35 10
-1840 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 35 10, 29 19, 42 5] || newLoc: 10 24
-1841 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 35 10, 29 19, 42 5, 10 24] || newLoc: 37 19
-1841 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 37 19, 35 10, 29 19, 42 5, 10 24] || newLoc: 30 19
-1889 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 2 5
-1890 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5] || newLoc: 0 5
-1890 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5, 2 5] || newLoc: 35 9
-1891 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 0 5, 2 5] || newLoc: 11 24
-1891 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 0 5, 2 5, 11 24] || newLoc: 38 19
-1892 DEBUG [main]                               GebiBot     - orders-keys: [35 9, 28 19, 0 5, 2 5, 38 19, 11 24] || newLoc: 31 19
-1924 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 3 5
-1924 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5] || newLoc: 1 5
-1924 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 3 5] || newLoc: 35 8
-1924 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 1 5, 28 19, 3 5] || newLoc: 12 24
-1925 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 1 5, 28 19, 12 24, 3 5] || newLoc: 39 19
-1925 DEBUG [main]                               GebiBot     - orders-keys: [35 8, 1 5, 28 19, 12 24, 3 5, 39 19] || newLoc: 32 19
-1963 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 4 5
-1963 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 4 5] || newLoc: 2 5
-1964 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5, 4 5] || newLoc: 35 7
-1964 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5, 35 7, 4 5] || newLoc: 13 24
-1965 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 13 24, 2 5, 35 7, 4 5] || newLoc: 40 19
-1965 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 13 24, 2 5, 35 7, 4 5, 40 19] || newLoc: 33 19
-1996 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 5 5
-1996 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 5] || newLoc: 3 5
-1997 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5, 5 5] || newLoc: 35 6
-1997 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5, 35 6, 5 5] || newLoc: 14 24
-1998 DEBUG [main]                               GebiBot     - orders-keys: [14 24, 28 19, 3 5, 35 6, 5 5] || newLoc: 41 19
-1998 DEBUG [main]                               GebiBot     - orders-keys: [14 24, 28 19, 3 5, 35 6, 5 5, 41 19] || newLoc: 34 19
-2026 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 6 5
-2026 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 6 5] || newLoc: 4 5
-2027 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 4 5, 6 5] || newLoc: 35 5
-2027 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 4 5, 6 5] || newLoc: 14 23
-2027 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 14 23, 4 5, 6 5] || newLoc: 41 20
-2028 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 35 5, 14 23, 41 20, 4 5, 6 5] || newLoc: 35 19
-2050 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 7 5
-2051 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 7 5] || newLoc: 5 5
-2051 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 5, 7 5] || newLoc: 41 21
-2051 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 5, 41 21, 7 5] || newLoc: 36 19
-2052 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 36 5
-2079 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 36 5] || newLoc: 8 5
-2080 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5] || newLoc: 6 5
-2081 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5, 6 5] || newLoc: 37 5
-2081 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5, 37 5, 6 5] || newLoc: 41 22
-2081 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 36 5, 37 5, 41 22, 6 5] || newLoc: 37 19
-2082 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 27 19
-2109 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 27 19] || newLoc: 9 5
-2110 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 27 19] || newLoc: 7 5
-2110 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 7 5, 27 19] || newLoc: 38 5
-2110 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 38 5, 7 5, 27 19] || newLoc: 41 23
-2111 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 41 23, 38 5, 7 5, 27 19] || newLoc: 38 19
-2111 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 38 19, 41 23, 38 5, 7 5, 27 19] || newLoc: 26 19
-2139 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 10 5
-2139 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5] || newLoc: 39 5
-2140 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5, 39 5] || newLoc: 42 23
-2140 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5, 42 23, 39 5] || newLoc: 39 19
-2140 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 39 19, 10 5, 42 23, 39 5] || newLoc: 25 19
-2141 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 8 5
-2170 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5] || newLoc: 11 5
-2170 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 11 5] || newLoc: 9 5
-2171 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 8 5, 11 5] || newLoc: 40 5
-2171 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 9 5, 28 19, 8 5, 11 5] || newLoc: 0 23
-2171 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 9 5, 28 19, 8 5, 11 5, 0 23] || newLoc: 40 19
-2172 DEBUG [main]                               GebiBot     - orders-keys: [40 5, 9 5, 28 19, 8 5, 11 5, 0 23, 40 19] || newLoc: 24 19
-2201 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 12 5
-2201 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 12 5] || newLoc: 10 5
-2202 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 10 5, 12 5] || newLoc: 41 5
-2202 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 10 5, 12 5] || newLoc: 1 23
-2202 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 10 5, 1 23, 12 5] || newLoc: 41 19
-2203 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 41 5, 10 5, 1 23, 41 19, 12 5] || newLoc: 23 19
-2222 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 13 5
-2222 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 13 5] || newLoc: 11 5
-2223 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 11 5, 13 5] || newLoc: 42 5
-2223 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 42 5, 11 5, 13 5] || newLoc: 2 23
-2223 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 42 5, 11 5, 13 5, 2 23] || newLoc: 41 18
-2224 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2224 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2225 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2256 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 14 5
-2257 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19, 14 5] || newLoc: 12 5
-2257 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19, 12 5, 14 5] || newLoc: 0 5
-2257 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5, 23 20, 23 18, 24 19, 12 5, 14 5] || newLoc: 3 23
-2258 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 0 5, 23 20, 23 18, 24 19, 12 5, 3 23, 14 5] || newLoc: 41 17
-2258 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2288 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 6
-2288 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 6] || newLoc: 13 5
-2288 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 13 5, 14 6] || newLoc: 1 5
-2289 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 23 19, 13 5, 14 6] || newLoc: 4 23
-2289 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 4 23, 23 19, 13 5, 14 6] || newLoc: 41 16
-2289 DEBUG [main]                               GebiBot     - orders-keys: [1 5, 28 19, 4 23, 23 19, 41 16, 13 5, 14 6] || newLoc: 23 18
-2316 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 14 7
-2317 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 14 7] || newLoc: 14 5
-2317 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 14 5, 14 7] || newLoc: 2 5
-2317 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 2 5, 14 5, 14 7] || newLoc: 5 23
-2318 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 5 23, 2 5, 14 5, 14 7] || newLoc: 41 15
-2318 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2336 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 8
-2337 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 8] || newLoc: 14 6
-2337 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 8, 14 6] || newLoc: 3 5
-2337 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 3 5, 23 19, 14 8, 14 6] || newLoc: 42 15
-2338 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 18
-2357 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18] || newLoc: 14 9
-2357 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9] || newLoc: 14 7
-2357 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 14 7] || newLoc: 4 5
-2358 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 4 5, 14 7] || newLoc: 0 15
-2358 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2378 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 10
-2378 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 10] || newLoc: 14 8
-2379 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 8, 14 10] || newLoc: 5 5
-2379 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 5 5, 14 8, 14 10] || newLoc: 1 15
-2379 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 18
-2426 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18] || newLoc: 14 11
-2427 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 11] || newLoc: 14 9
-2427 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 14 11] || newLoc: 6 5
-2427 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 9, 14 11, 6 5] || newLoc: 2 15
-2428 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2450 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 12
-2451 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 12] || newLoc: 14 10
-2451 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 10, 14 12] || newLoc: 7 5
-2452 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 10, 14 12, 7 5] || newLoc: 3 15
-2452 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 18
-2471 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18] || newLoc: 14 11
-2471 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 18, 14 11] || newLoc: 8 5
-2472 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 8 5, 23 18, 14 11] || newLoc: 4 15
-2472 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2489 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 12
-2489 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 12] || newLoc: 9 5
-2489 DEBUG [main]                               GebiBot     - orders-keys: [9 5, 28 19, 23 19, 14 12] || newLoc: 5 15
-2490 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2490 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2490 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2511 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 14 13
-2511 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19, 14 13] || newLoc: 10 5
-2511 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 10 5, 23 18, 24 19, 14 13] || newLoc: 6 15
-2512 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2533 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 14
-2534 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 14] || newLoc: 11 5
-2534 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 11 5, 23 19, 14 14] || newLoc: 7 15
-2535 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2535 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2535 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2557 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 12 5
-2558 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2574 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 13 5
-2575 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 20
-2575 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20] || newLoc: 24 19
-2576 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 24 19] || newLoc: 23 18
-2592 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 20, 23 18, 24 19] || newLoc: 14 5
-2593 DEBUG [main]                               GebiBot     - orders-keys: [28 19] || newLoc: 23 19
-2609 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19] || newLoc: 14 6
-2609 DEBUG [main]                               GebiBot     - orders-keys: [28 19, 23 19, 14 6] || newLoc: 23 18
+0 ERROR [main] GebiBot  - Test
+256 DEBUG [main] GebiBot  - ------ turn 1 --------
+365 DEBUG [main] GebiBot  - ------ turn 2 --------
+375 DEBUG [main] GebiBot  - orders-keys: [28 19] || newLoc: 27 19
+376 DEBUG [main] GebiBot  - orders-keys: [28 19, 27 19] || newLoc: 28 18
+376 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 27 19] || newLoc: 28 20
+377 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 28 20, 27 19] || newLoc: 29 19
+431 DEBUG [main] GebiBot  - ------ turn 3 --------
+440 DEBUG [main] GebiBot  - orders-keys: [28 19] || newLoc: 27 18
+441 DEBUG [main] GebiBot  - orders-keys: [28 19, 27 18] || newLoc: 27 20
+478 DEBUG [main] GebiBot  - ------ turn 4 --------
+481 DEBUG [main] GebiBot  - orders-keys: [28 19] || newLoc: 28 18
+481 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19] || newLoc: 28 20
+482 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 28 20] || newLoc: 29 19
+518 DEBUG [main] GebiBot  - ------ turn 5 --------
+519 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 28 17
+521 DEBUG [main] GebiBot  - orders-keys: [28 19, 28 17] || newLoc: 29 20
+521 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 20, 28 17] || newLoc: 28 21
+566 DEBUG [main] GebiBot  - ------ turn 6 --------
+571 DEBUG [main] GebiBot  - orders-keys: [28 19] || newLoc: 30 20
+572 DEBUG [main] GebiBot  - orders-keys: [28 19, 30 20] || newLoc: 29 21
+572 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 21, 30 20] || newLoc: 29 17
+593 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 21, 29 17, 30 20] || newLoc: 29 19
+594 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 21, 29 19, 29 17, 30 20] || newLoc: 27 19
+594 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 21, 29 19, 29 17, 27 19, 30 20] || newLoc: 28 20
+595 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 21, 29 19, 28 20, 29 17, 27 19, 30 20] || newLoc: 28 18
+682 DEBUG [main] GebiBot  - ------ turn 7 --------
+683 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 30 17
+685 DEBUG [main] GebiBot  - orders-keys: [28 19, 30 17] || newLoc: 31 20
+686 DEBUG [main] GebiBot  - orders-keys: [28 19, 31 20, 30 17] || newLoc: 30 21
+687 DEBUG [main] GebiBot  - orders-keys: [28 19, 31 20, 30 17, 30 21] || newLoc: 30 19
+702 DEBUG [main] GebiBot  - orders-keys: [28 19, 30 19, 31 20, 30 17, 30 21] || newLoc: 27 19
+703 DEBUG [main] GebiBot  - orders-keys: [28 19, 30 19, 31 20, 30 17, 27 19, 30 21] || newLoc: 28 20
+704 DEBUG [main] GebiBot  - orders-keys: [28 19, 28 20, 30 19, 31 20, 30 17, 27 19, 30 21] || newLoc: 28 18
+783 DEBUG [main] GebiBot  - ------ turn 8 --------
+783 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 31 17
+784 DEBUG [main] GebiBot  - orders-keys: [31 17] || newLoc: 31 19
+786 DEBUG [main] GebiBot  - orders-keys: [28 19, 31 19, 31 17] || newLoc: 32 20
+786 DEBUG [main] GebiBot  - orders-keys: [32 20, 28 19, 31 19, 31 17] || newLoc: 31 21
+787 DEBUG [main] GebiBot  - orders-keys: [32 20, 28 19, 31 21, 31 19, 31 17] || newLoc: 27 18
+824 DEBUG [main] GebiBot  - ------ turn 9 --------
+825 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 32 17
+826 DEBUG [main] GebiBot  - orders-keys: [32 17] || newLoc: 32 19
+827 DEBUG [main] GebiBot  - orders-keys: [32 17, 32 19] || newLoc: 28 18
+828 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 32 17, 32 19] || newLoc: 33 20
+829 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 32 17, 33 20, 32 19] || newLoc: 32 21
+861 DEBUG [main] GebiBot  - ------ turn 10 --------
+861 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 33 17
+862 DEBUG [main] GebiBot  - orders-keys: [33 17] || newLoc: 33 19
+863 DEBUG [main] GebiBot  - orders-keys: [33 17, 33 19] || newLoc: 29 18
+864 DEBUG [main] GebiBot  - orders-keys: [33 17, 28 19, 33 19, 29 18] || newLoc: 34 20
+865 DEBUG [main] GebiBot  - orders-keys: [33 17, 28 19, 33 19, 29 18, 34 20] || newLoc: 33 21
+911 DEBUG [main] GebiBot  - ------ turn 11 --------
+911 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 34 17
+912 DEBUG [main] GebiBot  - orders-keys: [34 17] || newLoc: 34 19
+912 DEBUG [main] GebiBot  - orders-keys: [34 17, 34 19] || newLoc: 30 18
+914 DEBUG [main] GebiBot  - orders-keys: [28 19, 30 18, 34 17, 34 19] || newLoc: 35 20
+914 DEBUG [main] GebiBot  - orders-keys: [28 19, 30 18, 34 17, 35 20, 34 19] || newLoc: 34 21
+956 DEBUG [main] GebiBot  - ------ turn 12 --------
+957 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 17
+958 DEBUG [main] GebiBot  - orders-keys: [35 17] || newLoc: 35 19
+958 DEBUG [main] GebiBot  - orders-keys: [35 17, 35 19] || newLoc: 31 18
+960 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 17, 35 19, 31 18] || newLoc: 35 21
+993 DEBUG [main] GebiBot  - ------ turn 13 --------
+994 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 16
+995 DEBUG [main] GebiBot  - orders-keys: [35 16] || newLoc: 35 18
+995 DEBUG [main] GebiBot  - orders-keys: [35 16, 35 18] || newLoc: 32 18
+996 DEBUG [main] GebiBot  - orders-keys: [32 18, 35 16, 35 18] || newLoc: 35 22
+997 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 18, 35 16, 35 18, 35 22] || newLoc: 29 19
+998 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 19, 32 18, 35 16, 35 18, 35 22] || newLoc: 28 20
+1041 DEBUG [main] GebiBot  - ------ turn 14 --------
+1042 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 15
+1042 DEBUG [main] GebiBot  - orders-keys: [35 15] || newLoc: 35 17
+1043 DEBUG [main] GebiBot  - orders-keys: [35 15, 35 17] || newLoc: 33 18
+1043 DEBUG [main] GebiBot  - orders-keys: [33 18, 35 15, 35 17] || newLoc: 35 23
+1045 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 18, 35 15, 35 17, 35 23] || newLoc: 30 19
+1045 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 18, 35 15, 35 17, 30 19, 35 23] || newLoc: 29 20
+1078 DEBUG [main] GebiBot  - ------ turn 15 --------
+1078 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 14
+1079 DEBUG [main] GebiBot  - orders-keys: [35 14] || newLoc: 35 16
+1079 DEBUG [main] GebiBot  - orders-keys: [35 14, 35 16] || newLoc: 34 18
+1080 DEBUG [main] GebiBot  - orders-keys: [35 14, 35 16, 34 18] || newLoc: 35 24
+1081 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 24, 35 14, 35 16, 34 18] || newLoc: 31 19
+1082 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 24, 35 14, 35 16, 31 19, 34 18] || newLoc: 30 20
+1114 DEBUG [main] GebiBot  - ------ turn 16 --------
+1115 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 13
+1116 DEBUG [main] GebiBot  - orders-keys: [35 13] || newLoc: 35 15
+1116 DEBUG [main] GebiBot  - orders-keys: [35 13, 35 15] || newLoc: 35 18
+1117 DEBUG [main] GebiBot  - orders-keys: [35 13, 35 15, 35 18] || newLoc: 35 25
+1126 DEBUG [main] GebiBot  - orders-keys: [35 25, 28 19, 35 13, 35 15, 35 18] || newLoc: 30 19
+1127 DEBUG [main] GebiBot  - orders-keys: [35 25, 28 19, 35 13, 35 15, 30 19, 35 18] || newLoc: 31 20
+1128 DEBUG [main] GebiBot  - orders-keys: [35 25, 28 19, 35 13, 35 15, 30 19, 31 20, 35 18] || newLoc: 31 18
+1129 DEBUG [main] GebiBot  - orders-keys: [35 25, 28 19, 35 13, 35 15, 30 19, 31 20, 35 18, 31 18] || newLoc: 32 19
+1189 DEBUG [main] GebiBot  - ------ turn 17 --------
+1190 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 14
+1190 DEBUG [main] GebiBot  - orders-keys: [35 14] || newLoc: 35 17
+1192 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 35 17] || newLoc: 35 12
+1192 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 35 14, 35 17] || newLoc: 35 26
+1199 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 26, 35 12, 35 14, 35 17] || newLoc: 27 19
+1199 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 26, 35 12, 35 14, 35 17, 27 19] || newLoc: 28 20
+1200 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 26, 35 12, 28 20, 35 14, 35 17, 27 19] || newLoc: 28 18
+1202 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 35 26, 35 12, 28 20, 35 14, 35 17, 27 19] || newLoc: 29 19
+1224 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 35 26, 35 12, 29 19, 28 20, 35 14, 35 17, 27 19] || newLoc: 30 20
+1224 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 35 26, 35 12, 29 19, 28 20, 35 14, 35 17, 27 19, 30 20] || newLoc: 30 18
+1226 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 35 26, 35 12, 29 19, 28 20, 35 14, 30 18, 35 17, 27 19, 30 20] || newLoc: 31 19
+1310 DEBUG [main] GebiBot  - ------ turn 18 --------
+1311 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 11
+1312 DEBUG [main] GebiBot  - orders-keys: [35 11] || newLoc: 35 13
+1313 DEBUG [main] GebiBot  - orders-keys: [35 11, 35 13] || newLoc: 35 16
+1313 DEBUG [main] GebiBot  - orders-keys: [35 11, 35 13, 35 16] || newLoc: 35 27
+1314 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 27, 35 11, 35 13, 35 16] || newLoc: 31 20
+1315 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 27, 35 11, 35 13, 35 16, 31 20] || newLoc: 29 19
+1319 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 27, 35 11, 29 19, 35 13, 35 16, 31 20] || newLoc: 26 19
+1320 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 27, 35 11, 29 19, 35 13, 26 19, 35 16, 31 20] || newLoc: 27 18
+1320 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 27, 35 11, 29 19, 35 13, 26 19, 35 16, 31 20, 27 18] || newLoc: 27 20
+1388 DEBUG [main] GebiBot  - ------ turn 19 --------
+1388 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 10
+1389 DEBUG [main] GebiBot  - orders-keys: [35 10] || newLoc: 35 15
+1389 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 15] || newLoc: 35 28
+1390 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 28, 35 15] || newLoc: 30 19
+1390 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 28, 35 15, 30 19] || newLoc: 32 20
+1391 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 20, 35 10, 35 28, 35 15, 30 19] || newLoc: 35 12
+1392 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 20, 35 10, 35 12, 35 28, 35 15, 30 19] || newLoc: 27 19
+1475 DEBUG [main] GebiBot  - ------ turn 20 --------
+1475 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 9
+1476 DEBUG [main] GebiBot  - orders-keys: [35 9] || newLoc: 35 11
+1476 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 11] || newLoc: 35 14
+1477 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 11, 35 14] || newLoc: 35 29
+1477 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 11, 35 29, 35 14] || newLoc: 31 19
+1478 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 11, 35 29, 35 14, 31 19] || newLoc: 33 20
+1479 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 11, 35 29, 33 20, 35 14, 31 19] || newLoc: 27 20
+1540 DEBUG [main] GebiBot  - ------ turn 21 --------
+1541 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 8
+1541 DEBUG [main] GebiBot  - orders-keys: [35 8] || newLoc: 35 10
+1541 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 10] || newLoc: 35 13
+1542 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 10, 35 13] || newLoc: 35 30
+1542 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 10, 35 13, 35 30] || newLoc: 32 19
+1542 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 10, 35 13, 32 19, 35 30] || newLoc: 34 20
+1543 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 10, 35 13, 32 19, 35 30, 34 20] || newLoc: 28 20
+1590 DEBUG [main] GebiBot  - ------ turn 22 --------
+1590 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 7
+1590 DEBUG [main] GebiBot  - orders-keys: [35 7] || newLoc: 35 9
+1591 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 7] || newLoc: 35 31
+1591 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 31, 35 7] || newLoc: 33 19
+1591 DEBUG [main] GebiBot  - orders-keys: [35 9, 33 19, 35 31, 35 7] || newLoc: 35 20
+1592 DEBUG [main] GebiBot  - orders-keys: [35 9, 33 19, 35 31, 35 20, 35 7] || newLoc: 29 20
+1592 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 9, 29 20, 33 19, 35 31, 35 20, 35 7] || newLoc: 35 12
+1634 DEBUG [main] GebiBot  - ------ turn 23 --------
+1634 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 6
+1635 DEBUG [main] GebiBot  - orders-keys: [35 6] || newLoc: 35 8
+1635 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 6] || newLoc: 35 11
+1635 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 11, 35 6] || newLoc: 35 32
+1635 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 11, 35 32, 35 6] || newLoc: 34 19
+1636 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 11, 35 32, 34 19, 35 6] || newLoc: 35 21
+1636 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 11, 35 32, 35 21, 34 19, 35 6] || newLoc: 30 20
+1670 DEBUG [main] GebiBot  - ------ turn 24 --------
+1671 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 5
+1671 DEBUG [main] GebiBot  - orders-keys: [35 5] || newLoc: 35 7
+1672 DEBUG [main] GebiBot  - orders-keys: [35 5, 35 7] || newLoc: 35 10
+1672 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 5, 35 7] || newLoc: 35 33
+1672 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 33, 35 5, 35 7] || newLoc: 35 19
+1673 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 19, 35 33, 35 5, 35 7] || newLoc: 35 22
+1674 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 19, 35 33, 35 5, 35 22, 35 7] || newLoc: 31 20
+1707 DEBUG [main] GebiBot  - ------ turn 25 --------
+1709 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 6
+1709 DEBUG [main] GebiBot  - orders-keys: [35 6] || newLoc: 35 9
+1709 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 6] || newLoc: 35 18
+1710 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 18, 35 6] || newLoc: 35 23
+1710 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 18, 35 23, 35 6] || newLoc: 32 20
+1712 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 20, 35 9, 35 18, 35 23, 35 6] || newLoc: 36 5
+1712 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 35 18, 35 23, 35 6] || newLoc: 34 5
+1718 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 34 5, 35 18, 35 23, 35 6] || newLoc: 36 33
+1719 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 36 33, 34 5, 35 18, 35 23, 35 6] || newLoc: 34 33
+1719 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 36 33, 34 5, 35 18, 35 23, 35 6, 34 33] || newLoc: 35 32
+1725 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 36 33, 34 5, 35 32, 35 18, 35 23, 35 6, 34 33] || newLoc: 27 19
+1725 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 36 33, 34 5, 35 32, 35 18, 27 19, 35 23, 35 6, 34 33] || newLoc: 28 20
+1726 DEBUG [main] GebiBot  - orders-keys: [36 5, 28 19, 32 20, 35 9, 28 20, 36 33, 34 5, 35 32, 35 18, 27 19, 35 23, 35 6, 34 33] || newLoc: 28 18
+1727 DEBUG [main] GebiBot  - orders-keys: [28 18, 36 5, 28 19, 32 20, 35 9, 28 20, 36 33, 34 5, 35 32, 35 18, 27 19, 35 23, 35 6, 34 33] || newLoc: 29 19
+1770 DEBUG [main] GebiBot  - ------ turn 26 --------
+1771 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 5
+1771 DEBUG [main] GebiBot  - orders-keys: [35 5] || newLoc: 35 8
+1772 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 5] || newLoc: 35 17
+1772 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 17, 35 5] || newLoc: 35 24
+1773 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 24, 35 17, 35 5] || newLoc: 33 20
+1777 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 19, 35 24, 33 20, 35 17, 35 5] || newLoc: 26 19
+1777 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 19, 35 24, 33 20, 35 17, 26 19, 35 5] || newLoc: 27 20
+1778 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 19, 35 24, 33 20, 35 17, 26 19, 27 20, 35 5] || newLoc: 27 18
+1784 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 19, 35 24, 33 20, 35 17, 26 19, 27 20, 27 18, 35 5] || newLoc: 28 20
+1784 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 19, 35 24, 33 20, 28 20, 35 17, 26 19, 27 20, 27 18, 35 5] || newLoc: 28 18
+1786 DEBUG [main] GebiBot  - orders-keys: [28 18, 35 8, 28 19, 35 24, 33 20, 28 20, 35 17, 26 19, 27 20, 27 18, 35 5] || newLoc: 29 19
+1791 DEBUG [main] GebiBot  - orders-keys: [28 18, 35 8, 28 19, 35 24, 29 19, 33 20, 28 20, 35 17, 26 19, 27 20, 27 18, 35 5] || newLoc: 37 5
+1792 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 18, 28 19, 29 19, 28 20, 35 5, 35 24, 37 5, 33 20, 35 17, 26 19, 27 20, 27 18] || newLoc: 36 6
+1798 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 18, 28 19, 29 19, 28 20, 35 5, 35 24, 36 6, 37 5, 33 20, 35 17, 26 19, 27 20, 27 18] || newLoc: 37 33
+1799 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 18, 28 19, 29 19, 28 20, 35 5, 35 24, 36 6, 37 33, 37 5, 33 20, 35 17, 26 19, 27 20, 27 18] || newLoc: 36 32
+1800 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 18, 28 19, 29 19, 28 20, 35 5, 35 24, 36 6, 37 33, 37 5, 33 20, 36 32, 35 17, 26 19, 27 20, 27 18] || newLoc: 35 33
+1849 DEBUG [main] GebiBot  - ------ turn 27 --------
+1850 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 7
+1850 DEBUG [main] GebiBot  - orders-keys: [35 7] || newLoc: 35 16
+1851 DEBUG [main] GebiBot  - orders-keys: [35 7, 35 16] || newLoc: 35 25
+1851 DEBUG [main] GebiBot  - orders-keys: [35 7, 35 25, 35 16] || newLoc: 34 20
+1854 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 7, 35 25, 34 20, 35 16] || newLoc: 34 5
+1854 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 7, 35 25, 34 20, 35 16] || newLoc: 35 6
+1855 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 34 20, 35 16] || newLoc: 36 5
+1858 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 36 5, 34 20, 35 16] || newLoc: 25 19
+1858 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 34 20, 35 16] || newLoc: 26 20
+1859 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 34 20, 35 16, 26 20] || newLoc: 26 18
+1860 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 26 18, 34 20, 35 16, 26 20] || newLoc: 27 19
+1863 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 26 18, 34 20, 35 16, 27 19, 26 20] || newLoc: 27 20
+1863 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 26 18, 34 20, 35 16, 27 20, 27 19, 26 20] || newLoc: 28 21
+1864 DEBUG [main] GebiBot  - orders-keys: [28 19, 28 21, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 26 18, 34 20, 35 16, 27 20, 27 19, 26 20] || newLoc: 29 20
+1867 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 20, 28 21, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 26 18, 34 20, 35 16, 27 20, 27 19, 26 20] || newLoc: 38 5
+1868 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 20, 28 21, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 26 18, 38 5, 34 20, 35 16, 27 20, 27 19, 26 20] || newLoc: 37 6
+1871 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 20, 28 21, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 37 6, 26 18, 38 5, 34 20, 35 16, 27 20, 27 19, 26 20] || newLoc: 38 33
+1871 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 20, 28 21, 34 5, 35 6, 35 7, 35 25, 36 5, 25 19, 37 6, 26 18, 38 5, 34 20, 35 16, 27 20, 27 19, 26 20, 38 33] || newLoc: 37 32
+1872 DEBUG [main] GebiBot  - orders-keys: [28 19, 29 20, 28 21, 34 5, 35 6, 35 7, 35 25, 36 5, 37 32, 25 19, 37 6, 26 18, 38 5, 34 20, 35 16, 27 20, 27 19, 26 20, 38 33] || newLoc: 36 33
+1923 DEBUG [main] GebiBot  - ------ turn 28 --------
+1923 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 6
+1923 DEBUG [main] GebiBot  - orders-keys: [35 6] || newLoc: 35 15
+1924 DEBUG [main] GebiBot  - orders-keys: [35 15, 35 6] || newLoc: 35 26
+1924 DEBUG [main] GebiBot  - orders-keys: [35 15, 35 6, 35 26] || newLoc: 35 20
+1926 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 35 26, 35 20] || newLoc: 24 19
+1927 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 35 26, 35 20] || newLoc: 25 20
+1927 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 25 20, 35 26, 35 20] || newLoc: 25 18
+1928 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 35 20] || newLoc: 26 19
+1930 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 35 20] || newLoc: 26 20
+1931 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 35 20, 26 20] || newLoc: 27 21
+1931 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 35 20, 26 20] || newLoc: 27 19
+1932 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 27 19, 35 20, 26 20] || newLoc: 28 20
+1933 DEBUG [main] GebiBot  - orders-keys: [28 19, 28 20, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 27 19, 35 20, 26 20] || newLoc: 33 5
+1934 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 27 19, 35 20, 26 20] || newLoc: 34 6
+1934 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 27 19, 35 20, 26 20] || newLoc: 35 5
+1936 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 5, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 27 19, 35 20, 26 20] || newLoc: 39 5
+1937 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 5, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 27 21, 39 5, 27 19, 35 20, 26 20] || newLoc: 38 6
+1937 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 5, 35 6, 24 19, 25 20, 35 26, 25 18, 26 19, 38 6, 27 21, 39 5, 27 19, 35 20, 26 20] || newLoc: 37 5
+1939 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 5, 35 6, 24 19, 25 20, 35 26, 25 18, 37 5, 26 19, 38 6, 27 21, 39 5, 27 19, 35 20, 26 20] || newLoc: 39 33
+1940 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 5, 35 6, 24 19, 25 20, 35 26, 25 18, 37 5, 26 19, 38 6, 39 33, 27 21, 39 5, 27 19, 35 20, 26 20] || newLoc: 38 32
+1941 DEBUG [main] GebiBot  - orders-keys: [28 19, 33 5, 28 20, 35 15, 34 6, 35 5, 35 6, 24 19, 25 20, 35 26, 25 18, 37 5, 26 19, 38 6, 39 33, 27 21, 39 5, 27 19, 35 20, 38 32, 26 20] || newLoc: 37 33
+1986 DEBUG [main] GebiBot  - ------ turn 29 --------
+1986 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 5
+1987 DEBUG [main] GebiBot  - orders-keys: [35 5] || newLoc: 35 14
+1987 DEBUG [main] GebiBot  - orders-keys: [35 14, 35 5] || newLoc: 35 27
+1988 DEBUG [main] GebiBot  - orders-keys: [35 14, 35 5, 35 27] || newLoc: 35 21
+1990 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 35 5, 35 27, 35 21] || newLoc: 23 19
+1990 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 35 27, 35 21] || newLoc: 24 20
+1991 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 35 27, 24 20, 35 21] || newLoc: 24 18
+1991 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 24 18, 35 27, 24 20, 35 21] || newLoc: 25 19
+1993 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 24 18, 35 27, 25 19, 24 20, 35 21] || newLoc: 25 20
+1993 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 35 21] || newLoc: 26 21
+1994 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 35 21, 26 21] || newLoc: 26 19
+1994 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 35 21, 26 21] || newLoc: 27 20
+1996 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 14, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 27 20, 35 21, 26 21] || newLoc: 32 5
+1996 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 14, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 27 20, 35 21, 26 21] || newLoc: 33 6
+1996 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 33 6, 35 14, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 27 20, 35 21, 26 21] || newLoc: 34 5
+1998 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 33 6, 35 14, 34 5, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 27 20, 35 21, 26 21] || newLoc: 40 5
+1999 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 33 6, 35 14, 34 5, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 27 20, 35 21, 26 21] || newLoc: 39 6
+1999 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 33 6, 35 14, 34 5, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 26 19, 27 20, 35 21, 39 6, 26 21] || newLoc: 38 5
+2001 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 33 6, 35 14, 34 5, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 38 5, 26 19, 27 20, 35 21, 39 6, 26 21] || newLoc: 40 33
+2002 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 40 33, 33 6, 35 14, 34 5, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 38 5, 26 19, 27 20, 35 21, 39 6, 26 21] || newLoc: 39 32
+2002 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 40 33, 33 6, 35 14, 34 5, 23 19, 35 5, 24 18, 25 20, 35 27, 25 19, 24 20, 38 5, 26 19, 39 32, 27 20, 35 21, 39 6, 26 21] || newLoc: 38 33
+2046 DEBUG [main] GebiBot  - ------ turn 30 --------
+2047 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 13
+2047 DEBUG [main] GebiBot  - orders-keys: [35 13] || newLoc: 35 28
+2047 DEBUG [main] GebiBot  - orders-keys: [35 13, 35 28] || newLoc: 35 22
+2048 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 35 28, 35 22] || newLoc: 34 5
+2049 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 35 28, 35 22] || newLoc: 35 6
+2049 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 35 6, 35 28, 35 22] || newLoc: 36 5
+2050 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 35 6, 36 5, 35 28, 35 22] || newLoc: 23 18
+2051 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 18, 35 6, 36 5, 35 28, 35 22] || newLoc: 23 20
+2051 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 36 5, 35 28, 35 22] || newLoc: 24 19
+2052 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 35 28, 35 22] || newLoc: 24 20
+2053 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 35 28, 24 20, 35 22] || newLoc: 25 21
+2053 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 35 28, 24 20, 35 22] || newLoc: 26 20
+2054 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 35 28, 24 20, 26 20, 35 22] || newLoc: 25 19
+2055 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 26 20, 35 22] || newLoc: 31 5
+2056 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 26 20, 35 22] || newLoc: 32 6
+2056 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 6, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 26 20, 35 22] || newLoc: 33 5
+2058 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 6, 33 5, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 26 20, 35 22] || newLoc: 41 5
+2064 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 6, 41 5, 33 5, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 26 20, 35 22] || newLoc: 40 6
+2070 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 6, 40 6, 41 5, 33 5, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 26 20, 35 22] || newLoc: 39 5
+2071 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 6, 40 6, 41 5, 33 5, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 39 5, 26 20, 35 22] || newLoc: 41 33
+2072 DEBUG [main] GebiBot  - orders-keys: [28 19, 41 33, 32 6, 40 6, 41 5, 33 5, 35 13, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 39 5, 26 20, 35 22] || newLoc: 40 32
+2072 DEBUG [main] GebiBot  - orders-keys: [28 19, 41 33, 32 6, 40 6, 41 5, 33 5, 35 13, 40 32, 34 5, 23 20, 23 18, 35 6, 24 19, 36 5, 25 21, 25 19, 35 28, 24 20, 31 5, 39 5, 26 20, 35 22] || newLoc: 39 33
+2116 DEBUG [main] GebiBot  - ------ turn 31 --------
+2116 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 12
+2116 DEBUG [main] GebiBot  - orders-keys: [35 12] || newLoc: 35 29
+2117 DEBUG [main] GebiBot  - orders-keys: [35 12, 35 29] || newLoc: 35 23
+2118 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 35 29, 35 23] || newLoc: 23 19
+2118 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 19, 35 29, 35 23] || newLoc: 24 18
+2119 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 19, 24 18, 35 29, 35 23] || newLoc: 23 20
+2120 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 20, 23 19, 24 18, 35 29, 35 23] || newLoc: 24 21
+2120 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 20, 23 19, 24 18, 35 29, 24 21, 35 23] || newLoc: 25 20
+2120 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 20, 23 19, 24 18, 25 20, 35 29, 24 21, 35 23] || newLoc: 24 19
+2122 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 20, 23 19, 24 18, 24 19, 25 20, 35 29, 24 21, 35 23] || newLoc: 30 5
+2122 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 20, 23 19, 24 18, 24 19, 25 20, 35 29, 24 21, 30 5, 35 23] || newLoc: 31 6
+2122 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 12, 23 20, 23 19, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 32 5
+2124 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 12, 23 20, 23 19, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 33 5
+2124 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 12, 33 5, 23 20, 23 19, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 34 6
+2124 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 12, 33 5, 34 6, 23 20, 23 19, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 35 5
+2126 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 12, 33 5, 34 6, 23 20, 23 19, 35 5, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 42 5
+2126 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 12, 33 5, 42 5, 34 6, 23 20, 23 19, 35 5, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 41 6
+2127 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 35 12, 33 5, 41 6, 42 5, 34 6, 23 20, 23 19, 35 5, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 40 5
+2128 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 35 12, 33 5, 41 6, 42 5, 34 6, 23 20, 23 19, 35 5, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 42 33
+2128 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 35 12, 33 5, 41 6, 42 5, 34 6, 23 20, 23 19, 35 5, 42 33, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 41 32
+2129 DEBUG [main] GebiBot  - orders-keys: [40 5, 32 5, 28 19, 41 32, 35 12, 33 5, 41 6, 42 5, 34 6, 23 20, 23 19, 35 5, 42 33, 24 18, 24 19, 25 20, 35 29, 24 21, 31 6, 30 5, 35 23] || newLoc: 40 33
+2168 DEBUG [main] GebiBot  - ------ turn 32 --------
+2169 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 11
+2169 DEBUG [main] GebiBot  - orders-keys: [35 11] || newLoc: 35 30
+2169 DEBUG [main] GebiBot  - orders-keys: [35 11, 35 30] || newLoc: 35 24
+2170 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 11, 35 24, 35 30] || newLoc: 0 5
+2170 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 11, 0 5, 35 24, 35 30] || newLoc: 0 33
+2171 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 35 24, 35 30] || newLoc: 23 18
+2171 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 23 18, 35 24, 35 30] || newLoc: 24 19
+2173 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 23 18, 24 19, 35 24, 35 30] || newLoc: 24 20
+2174 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 23 18, 24 19, 35 24, 24 20, 35 30] || newLoc: 29 5
+2174 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 23 18, 24 19, 35 24, 29 5, 24 20, 35 30] || newLoc: 30 6
+2175 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 23 18, 24 19, 35 24, 29 5, 24 20, 35 30, 30 6] || newLoc: 31 5
+2176 DEBUG [main] GebiBot  - orders-keys: [28 19, 0 33, 35 11, 0 5, 23 18, 24 19, 35 24, 29 5, 24 20, 35 30, 31 5, 30 6] || newLoc: 32 5
+2177 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 0 33, 35 11, 0 5, 23 18, 24 19, 35 24, 29 5, 24 20, 35 30, 31 5, 30 6] || newLoc: 33 6
+2177 DEBUG [main] GebiBot  - orders-keys: [32 5, 28 19, 0 33, 35 11, 0 5, 33 6, 23 18, 24 19, 35 24, 29 5, 24 20, 35 30, 31 5, 30 6] || newLoc: 34 5
+2216 DEBUG [main] GebiBot  - ------ turn 33 --------
+2216 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 10
+2216 DEBUG [main] GebiBot  - orders-keys: [35 10] || newLoc: 35 31
+2217 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 31] || newLoc: 35 25
+2217 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 25, 35 31] || newLoc: 24 21
+2217 DEBUG [main] GebiBot  - orders-keys: [35 10, 35 25, 35 31, 24 21] || newLoc: 1 5
+2217 DEBUG [main] GebiBot  - orders-keys: [1 5, 35 10, 35 25, 35 31, 24 21] || newLoc: 1 33
+2218 DEBUG [main] GebiBot  - orders-keys: [28 19, 1 5, 35 10, 1 33, 35 25, 35 31, 24 21] || newLoc: 28 5
+2218 DEBUG [main] GebiBot  - orders-keys: [28 19, 1 5, 35 10, 1 33, 35 25, 28 5, 35 31, 24 21] || newLoc: 33 5
+2219 DEBUG [main] GebiBot  - orders-keys: [28 19, 1 5, 35 10, 33 5, 1 33, 35 25, 28 5, 35 31, 24 21] || newLoc: 23 19
+2251 DEBUG [main] GebiBot  - ------ turn 34 --------
+2252 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 9
+2252 DEBUG [main] GebiBot  - orders-keys: [35 9] || newLoc: 35 32
+2252 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 32] || newLoc: 35 26
+2253 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 32, 35 26] || newLoc: 24 22
+2253 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 32, 35 26, 24 22] || newLoc: 2 5
+2253 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 32, 2 5, 35 26, 24 22] || newLoc: 2 33
+2254 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 32, 2 33, 2 5, 35 26, 24 22] || newLoc: 23 20
+2254 DEBUG [main] GebiBot  - orders-keys: [35 9, 35 32, 23 20, 2 33, 2 5, 35 26, 24 22] || newLoc: 27 5
+2254 DEBUG [main] GebiBot  - orders-keys: [35 9, 27 5, 35 32, 23 20, 2 33, 2 5, 35 26, 24 22] || newLoc: 34 5
+2284 DEBUG [main] GebiBot  - ------ turn 35 --------
+2285 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 8
+2285 DEBUG [main] GebiBot  - orders-keys: [35 8] || newLoc: 35 33
+2285 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 33] || newLoc: 35 27
+2285 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 33, 35 27] || newLoc: 24 23
+2286 DEBUG [main] GebiBot  - orders-keys: [35 8, 35 33, 35 27, 24 23] || newLoc: 3 5
+2286 DEBUG [main] GebiBot  - orders-keys: [35 8, 3 5, 35 33, 35 27, 24 23] || newLoc: 3 33
+2286 DEBUG [main] GebiBot  - orders-keys: [35 8, 3 5, 35 33, 3 33, 35 27, 24 23] || newLoc: 26 5
+2287 DEBUG [main] GebiBot  - orders-keys: [35 8, 3 5, 35 33, 26 5, 3 33, 35 27, 24 23] || newLoc: 35 5
+2287 DEBUG [main] GebiBot  - orders-keys: [35 8, 28 19, 3 5, 35 33, 35 5, 26 5, 3 33, 35 27, 24 23] || newLoc: 23 19
+2317 DEBUG [main] GebiBot  - ------ turn 36 --------
+2317 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 7
+2317 DEBUG [main] GebiBot  - orders-keys: [35 7] || newLoc: 35 28
+2318 DEBUG [main] GebiBot  - orders-keys: [35 7, 35 28] || newLoc: 24 24
+2318 DEBUG [main] GebiBot  - orders-keys: [35 7, 35 28, 24 24] || newLoc: 4 5
+2318 DEBUG [main] GebiBot  - orders-keys: [35 7, 4 5, 35 28, 24 24] || newLoc: 4 33
+2319 DEBUG [main] GebiBot  - orders-keys: [35 7, 4 33, 4 5, 35 28, 24 24] || newLoc: 23 18
+2324 DEBUG [main] GebiBot  - orders-keys: [23 18, 35 7, 4 33, 4 5, 35 28, 24 24] || newLoc: 25 5
+2324 DEBUG [main] GebiBot  - orders-keys: [25 5, 23 18, 35 7, 4 33, 4 5, 35 28, 24 24] || newLoc: 36 5
+2325 DEBUG [main] GebiBot  - orders-keys: [28 19, 25 5, 23 18, 35 7, 36 5, 4 33, 4 5, 35 28, 24 24] || newLoc: 36 33
+2325 DEBUG [main] GebiBot  - orders-keys: [28 19, 25 5, 23 18, 35 7, 36 5, 4 33, 4 5, 35 28, 36 33, 24 24] || newLoc: 34 33
+2355 DEBUG [main] GebiBot  - ------ turn 37 --------
+2355 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 6
+2356 DEBUG [main] GebiBot  - orders-keys: [35 6] || newLoc: 35 29
+2356 DEBUG [main] GebiBot  - orders-keys: [35 6, 35 29] || newLoc: 24 25
+2356 DEBUG [main] GebiBot  - orders-keys: [35 6, 35 29, 24 25] || newLoc: 5 5
+2356 DEBUG [main] GebiBot  - orders-keys: [35 6, 5 5, 35 29, 24 25] || newLoc: 5 33
+2357 DEBUG [main] GebiBot  - orders-keys: [35 6, 5 5, 35 29, 5 33, 24 25] || newLoc: 24 5
+2357 DEBUG [main] GebiBot  - orders-keys: [24 5, 35 6, 5 5, 35 29, 5 33, 24 25] || newLoc: 37 5
+2358 DEBUG [main] GebiBot  - orders-keys: [28 19, 24 5, 35 6, 5 5, 35 29, 37 5, 5 33, 24 25] || newLoc: 37 33
+2358 DEBUG [main] GebiBot  - orders-keys: [28 19, 24 5, 35 6, 5 5, 37 33, 35 29, 37 5, 5 33, 24 25] || newLoc: 36 32
+2358 DEBUG [main] GebiBot  - orders-keys: [28 19, 24 5, 35 6, 5 5, 37 33, 35 29, 37 5, 36 32, 5 33, 24 25] || newLoc: 35 33
+2359 DEBUG [main] GebiBot  - orders-keys: [28 19, 24 5, 35 33, 35 6, 5 5, 37 33, 35 29, 37 5, 36 32, 5 33, 24 25] || newLoc: 23 19
+2360 DEBUG [main] GebiBot  - orders-keys: [28 19, 24 5, 35 33, 23 19, 35 6, 5 5, 37 33, 35 29, 37 5, 36 32, 5 33, 24 25] || newLoc: 24 18
+2399 DEBUG [main] GebiBot  - ------ turn 38 --------
+2400 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 5
+2400 DEBUG [main] GebiBot  - orders-keys: [35 5] || newLoc: 35 30
+2400 DEBUG [main] GebiBot  - orders-keys: [35 5, 35 30] || newLoc: 24 26
+2401 DEBUG [main] GebiBot  - orders-keys: [35 5, 35 30, 24 26] || newLoc: 6 5
+2401 DEBUG [main] GebiBot  - orders-keys: [35 5, 35 30, 24 26, 6 5] || newLoc: 6 33
+2401 DEBUG [main] GebiBot  - orders-keys: [35 5, 35 30, 24 26, 6 33, 6 5] || newLoc: 23 5
+2402 DEBUG [main] GebiBot  - orders-keys: [35 5, 35 30, 24 26, 23 5, 6 33, 6 5] || newLoc: 38 5
+2402 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 5, 35 30, 24 26, 38 5, 23 5, 6 33, 6 5] || newLoc: 38 33
+2403 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 5, 35 30, 24 26, 38 5, 23 5, 6 33, 6 5, 38 33] || newLoc: 23 18
+2403 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 18, 35 5, 35 30, 24 26, 38 5, 23 5, 6 33, 6 5, 38 33] || newLoc: 23 20
+2404 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 20, 23 18, 35 5, 35 30, 24 26, 38 5, 23 5, 6 33, 6 5, 38 33] || newLoc: 37 32
+2452 DEBUG [main] GebiBot  - ------ turn 39 --------
+2452 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 35 31
+2453 DEBUG [main] GebiBot  - orders-keys: [35 31] || newLoc: 24 27
+2453 DEBUG [main] GebiBot  - orders-keys: [35 31, 24 27] || newLoc: 7 5
+2453 DEBUG [main] GebiBot  - orders-keys: [35 31, 7 5, 24 27] || newLoc: 7 33
+2453 DEBUG [main] GebiBot  - orders-keys: [35 31, 7 5, 24 27, 7 33] || newLoc: 22 5
+2454 DEBUG [main] GebiBot  - orders-keys: [35 31, 7 5, 24 27, 22 5, 7 33] || newLoc: 39 5
+2454 DEBUG [main] GebiBot  - orders-keys: [28 19, 35 31, 7 5, 24 27, 39 5, 22 5, 7 33] || newLoc: 34 5
+2455 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 31, 7 5, 24 27, 39 5, 22 5, 7 33] || newLoc: 39 33
+2455 DEBUG [main] GebiBot  - orders-keys: [28 19, 34 5, 35 31, 7 5, 24 27, 39 33, 39 5, 22 5, 7 33] || newLoc: 23 19
+2497 DEBUG [main] GebiBot  - ------ turn 40 --------
+2498 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 33 5
+2498 DEBUG [main] GebiBot  - orders-keys: [33 5] || newLoc: 35 32
+2499 DEBUG [main] GebiBot  - orders-keys: [33 5, 35 32] || newLoc: 24 28
+2499 DEBUG [main] GebiBot  - orders-keys: [33 5, 35 32, 24 28] || newLoc: 21 5
+2500 DEBUG [main] GebiBot  - orders-keys: [33 5, 35 32, 21 5, 24 28] || newLoc: 40 5
+2500 DEBUG [main] GebiBot  - orders-keys: [40 5, 33 5, 35 32, 21 5, 24 28] || newLoc: 23 20
+2501 DEBUG [main] GebiBot  - orders-keys: [40 5, 33 5, 35 32, 23 20, 21 5, 24 28] || newLoc: 40 33
+2501 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 33 5, 40 33, 35 32, 23 20, 21 5, 24 28] || newLoc: 7 32
+2502 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 33 5, 40 33, 35 32, 23 20, 21 5, 7 32, 24 28] || newLoc: 8 33
+2503 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 8 33, 33 5, 40 33, 35 32, 23 20, 21 5, 7 32, 24 28] || newLoc: 8 5
+2503 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 8 33, 8 5, 33 5, 40 33, 35 32, 23 20, 21 5, 7 32, 24 28] || newLoc: 7 6
+2503 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 8 33, 8 5, 33 5, 40 33, 35 32, 23 20, 21 5, 7 6, 7 32, 24 28] || newLoc: 6 5
+2504 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 8 33, 8 5, 33 5, 40 33, 35 32, 23 20, 21 5, 7 6, 6 5, 7 32, 24 28] || newLoc: 27 19
+2505 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 8 33, 8 5, 33 5, 40 33, 35 32, 23 20, 21 5, 7 6, 27 19, 6 5, 7 32, 24 28] || newLoc: 28 20
+2505 DEBUG [main] GebiBot  - orders-keys: [40 5, 28 19, 8 33, 8 5, 33 5, 28 20, 40 33, 35 32, 23 20, 21 5, 7 6, 27 19, 6 5, 7 32, 24 28] || newLoc: 28 18
+2506 DEBUG [main] GebiBot  - orders-keys: [28 18, 40 5, 28 19, 8 33, 8 5, 33 5, 28 20, 40 33, 35 32, 23 20, 21 5, 7 6, 27 19, 6 5, 7 32, 24 28] || newLoc: 29 19
+2542 DEBUG [main] GebiBot  - ------ turn 41 --------
+2543 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 32 5
+2543 DEBUG [main] GebiBot  - orders-keys: [32 5] || newLoc: 35 33
+2544 DEBUG [main] GebiBot  - orders-keys: [32 5, 35 33] || newLoc: 24 29
+2544 DEBUG [main] GebiBot  - orders-keys: [32 5, 35 33, 24 29] || newLoc: 41 5
+2544 DEBUG [main] GebiBot  - orders-keys: [32 5, 41 5, 35 33, 24 29] || newLoc: 41 33
+2545 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 41 33, 41 5, 35 33, 24 29] || newLoc: 7 31
+2545 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 7 31, 41 33, 41 5, 35 33, 24 29] || newLoc: 8 32
+2546 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 35 33, 24 29] || newLoc: 20 5
+2546 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 35 33, 20 5, 24 29] || newLoc: 21 6
+2547 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 35 33, 21 6, 20 5, 24 29] || newLoc: 23 19
+2547 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 35 33, 23 19, 21 6, 20 5, 24 29] || newLoc: 24 20
+2548 DEBUG [main] GebiBot  - orders-keys: [28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 35 33, 23 19, 21 6, 24 20, 20 5, 24 29] || newLoc: 9 5
+2548 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 35 33, 23 19, 21 6, 24 20, 20 5, 24 29] || newLoc: 8 6
+2548 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 24 29] || newLoc: 7 5
+2549 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 7 5, 24 29] || newLoc: 26 19
+2549 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 26 19, 7 5, 24 29] || newLoc: 27 20
+2550 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 26 19, 7 5, 27 20, 24 29] || newLoc: 27 18
+2551 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 26 19, 7 5, 27 20, 27 18, 24 29] || newLoc: 28 20
+2551 DEBUG [main] GebiBot  - orders-keys: [9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 28 20, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 26 19, 7 5, 27 20, 27 18, 24 29] || newLoc: 28 18
+2551 DEBUG [main] GebiBot  - orders-keys: [28 18, 9 5, 28 19, 32 5, 7 31, 41 33, 8 32, 41 5, 28 20, 8 6, 35 33, 23 19, 21 6, 24 20, 20 5, 26 19, 7 5, 27 20, 27 18, 24 29] || newLoc: 29 19
+2594 DEBUG [main] GebiBot  - ------ turn 42 --------
+2594 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 31 5
+2595 DEBUG [main] GebiBot  - orders-keys: [31 5] || newLoc: 42 5
+2595 DEBUG [main] GebiBot  - orders-keys: [42 5, 31 5] || newLoc: 42 33
+2596 DEBUG [main] GebiBot  - orders-keys: [28 19, 42 5, 42 33, 31 5] || newLoc: 23 29
+2596 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 42 5, 42 33, 31 5] || newLoc: 7 30
+2597 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 7 30, 42 5, 42 33, 31 5] || newLoc: 36 33
+2597 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 7 30, 42 5, 42 33, 36 33, 31 5] || newLoc: 35 32
+2598 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 7 30, 42 5, 35 32, 42 33, 36 33, 31 5] || newLoc: 34 33
+2599 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 7 30, 42 5, 35 32, 42 33, 34 33, 36 33, 31 5] || newLoc: 10 5
+2599 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 7 30, 42 5, 35 32, 10 5, 42 33, 34 33, 36 33, 31 5] || newLoc: 9 6
+2599 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 42 5, 35 32, 10 5, 42 33, 34 33, 36 33, 31 5] || newLoc: 8 5
+2600 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 10 5, 42 33, 34 33, 36 33, 31 5] || newLoc: 19 5
+2600 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 19 5, 10 5, 42 33, 34 33, 36 33, 31 5] || newLoc: 20 6
+2601 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 19 5, 10 5, 42 33, 34 33, 20 6, 36 33, 31 5] || newLoc: 23 18
+2601 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 19 5, 10 5, 23 18, 42 33, 34 33, 20 6, 36 33, 31 5] || newLoc: 23 20
+2602 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 20 6, 36 33, 31 5] || newLoc: 24 19
+2602 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 36 33, 31 5] || newLoc: 25 19
+2603 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 31 5] || newLoc: 26 18
+2603 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 31 5] || newLoc: 26 20
+2604 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 31 5, 26 20] || newLoc: 27 19
+2605 DEBUG [main] GebiBot  - orders-keys: [28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 31 5, 27 19, 26 20] || newLoc: 28 18
+2606 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 23 29, 9 6, 7 30, 8 5, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 31 5, 27 19, 26 20] || newLoc: 29 19
+2607 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 23 29, 9 6, 7 30, 8 5, 29 19, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 31 5, 27 19, 26 20] || newLoc: 27 20
+2607 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 23 29, 9 6, 7 30, 8 5, 29 19, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 27 20, 31 5, 27 19, 26 20] || newLoc: 28 21
+2608 DEBUG [main] GebiBot  - orders-keys: [28 18, 28 19, 23 29, 9 6, 7 30, 8 5, 29 19, 28 21, 42 5, 35 32, 23 20, 19 5, 10 5, 23 18, 42 33, 34 33, 24 19, 20 6, 25 19, 36 33, 26 18, 27 20, 31 5, 27 19, 26 20] || newLoc: 29 20
+2651 DEBUG [main] GebiBot  - ------ turn 43 --------
+2652 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 30 5
+2652 DEBUG [main] GebiBot  - orders-keys: [30 5] || newLoc: 22 29
+2653 DEBUG [main] GebiBot  - orders-keys: [22 29, 30 5] || newLoc: 0 5
+2653 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 30 5] || newLoc: 0 33
+2653 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 0 33, 30 5] || newLoc: 7 29
+2654 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 7 29, 28 19, 0 33, 30 5] || newLoc: 20 5
+2654 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 20 5, 7 29, 28 19, 0 33, 30 5] || newLoc: 37 33
+2654 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 37 33, 20 5, 7 29, 28 19, 0 33, 30 5] || newLoc: 11 5
+2655 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 11 5, 37 33, 20 5, 7 29, 28 19, 0 33, 30 5] || newLoc: 10 6
+2655 DEBUG [main] GebiBot  - orders-keys: [0 5, 22 29, 11 5, 37 33, 20 5, 7 29, 28 19, 0 33, 10 6, 30 5] || newLoc: 9 5
+2656 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 37 33, 20 5, 7 29, 28 19, 0 33, 10 6, 30 5] || newLoc: 23 19
+2656 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 37 33, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 30 5] || newLoc: 24 18
+2657 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 37 33, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 30 5] || newLoc: 24 19
+2657 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 37 33, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 30 5] || newLoc: 25 18
+2657 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 37 33, 25 18, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 30 5] || newLoc: 25 20
+2658 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 30 5] || newLoc: 26 19
+2658 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 26 19, 30 5] || newLoc: 26 20
+2658 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 26 19, 26 20, 30 5] || newLoc: 27 21
+2659 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 27 21, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 26 19, 26 20, 30 5] || newLoc: 27 19
+2659 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 27 21, 27 19, 7 29, 28 19, 0 33, 23 19, 10 6, 24 18, 24 19, 26 19, 26 20, 30 5] || newLoc: 28 20
+2660 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 27 21, 27 19, 7 29, 28 19, 0 33, 28 20, 23 19, 10 6, 24 18, 24 19, 26 19, 26 20, 30 5] || newLoc: 27 18
+2661 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 27 21, 27 18, 27 19, 7 29, 28 19, 0 33, 28 20, 23 19, 10 6, 24 18, 24 19, 26 19, 26 20, 30 5] || newLoc: 28 17
+2661 DEBUG [main] GebiBot  - orders-keys: [9 5, 0 5, 22 29, 11 5, 25 20, 37 33, 25 18, 20 5, 27 21, 27 18, 27 19, 7 29, 28 19, 28 17, 0 33, 28 20, 23 19, 10 6, 24 18, 24 19, 26 19, 26 20, 30 5] || newLoc: 29 18
+2696 DEBUG [main] GebiBot  - ------ turn 44 --------
+2696 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 29 5
+2697 DEBUG [main] GebiBot  - orders-keys: [29 5] || newLoc: 21 29
+2697 DEBUG [main] GebiBot  - orders-keys: [29 5, 21 29] || newLoc: 1 5
+2697 DEBUG [main] GebiBot  - orders-keys: [29 5, 1 5, 21 29] || newLoc: 1 33
+2697 DEBUG [main] GebiBot  - orders-keys: [1 33, 29 5, 1 5, 21 29] || newLoc: 7 28
+2698 DEBUG [main] GebiBot  - orders-keys: [1 33, 29 5, 7 28, 1 5, 21 29] || newLoc: 21 5
+2698 DEBUG [main] GebiBot  - orders-keys: [1 33, 29 5, 7 28, 1 5, 21 29, 21 5] || newLoc: 38 33
+2699 DEBUG [main] GebiBot  - orders-keys: [1 33, 29 5, 28 19, 7 28, 1 5, 21 29, 21 5, 38 33] || newLoc: 25 20
+2699 DEBUG [main] GebiBot  - orders-keys: [1 33, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 21 5, 38 33] || newLoc: 23 20
+2699 DEBUG [main] GebiBot  - orders-keys: [1 33, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 23 20, 21 5, 38 33] || newLoc: 12 5
+2700 DEBUG [main] GebiBot  - orders-keys: [1 33, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 23 20, 21 5, 12 5, 38 33] || newLoc: 11 6
+2700 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 23 20, 21 5, 12 5, 38 33] || newLoc: 10 5
+2701 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 21 5, 12 5, 38 33] || newLoc: 24 18
+2701 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 24 18, 21 5, 12 5, 38 33] || newLoc: 24 20
+2701 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 24 18, 21 5, 12 5, 24 20, 38 33] || newLoc: 25 19
+2702 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 25 19, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 24 18, 21 5, 12 5, 24 20, 38 33] || newLoc: 26 18
+2702 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 25 19, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 24 18, 21 5, 12 5, 24 20, 26 18, 38 33] || newLoc: 27 17
+2702 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 25 19, 27 17, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 24 18, 21 5, 12 5, 24 20, 26 18, 38 33] || newLoc: 27 19
+2703 DEBUG [main] GebiBot  - orders-keys: [1 33, 11 6, 25 20, 29 5, 25 19, 27 19, 27 17, 28 19, 7 28, 1 5, 21 29, 23 20, 10 5, 24 18, 21 5, 12 5, 24 20, 26 18, 38 33] || newLoc: 28 18
+2737 DEBUG [main] GebiBot  - ------ turn 45 --------
+2737 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 28 5
+2738 DEBUG [main] GebiBot  - orders-keys: [28 5] || newLoc: 21 30
+2738 DEBUG [main] GebiBot  - orders-keys: [21 30, 28 5] || newLoc: 2 5
+2738 DEBUG [main] GebiBot  - orders-keys: [2 5, 21 30, 28 5] || newLoc: 2 33
+2739 DEBUG [main] GebiBot  - orders-keys: [2 5, 21 30, 2 33, 28 5] || newLoc: 7 27
+2739 DEBUG [main] GebiBot  - orders-keys: [2 5, 7 27, 21 30, 2 33, 28 5] || newLoc: 39 33
+2740 DEBUG [main] GebiBot  - orders-keys: [2 5, 39 33, 7 27, 21 30, 2 33, 28 5] || newLoc: 24 20
+2740 DEBUG [main] GebiBot  - orders-keys: [2 5, 39 33, 28 19, 7 27, 21 30, 2 33, 24 20, 28 5] || newLoc: 13 5
+2741 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 39 33, 28 19, 7 27, 21 30, 2 33, 24 20, 28 5] || newLoc: 23 18
+2741 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 18, 24 20, 28 5] || newLoc: 20 5
+2741 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 20 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 18, 24 20, 28 5] || newLoc: 21 6
+2742 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 20 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 18, 21 6, 24 20, 28 5] || newLoc: 23 19
+2743 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 20 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 19, 23 18, 21 6, 24 20, 28 5] || newLoc: 25 18
+2743 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 25 18, 20 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 19, 23 18, 21 6, 24 20, 28 5] || newLoc: 26 17
+2743 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 25 18, 20 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 19, 23 18, 21 6, 24 20, 28 5, 26 17] || newLoc: 26 19
+2744 DEBUG [main] GebiBot  - orders-keys: [2 5, 13 5, 25 18, 20 5, 39 33, 28 19, 7 27, 21 30, 2 33, 23 19, 23 18, 21 6, 24 20, 28 5, 26 19, 26 17] || newLoc: 27 18
+2776 DEBUG [main] GebiBot  - ------ turn 46 --------
+2777 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 27 5
+2777 DEBUG [main] GebiBot  - orders-keys: [27 5] || newLoc: 21 31
+2777 DEBUG [main] GebiBot  - orders-keys: [27 5, 21 31] || newLoc: 3 5
+2778 DEBUG [main] GebiBot  - orders-keys: [27 5, 21 31, 3 5] || newLoc: 3 33
+2778 DEBUG [main] GebiBot  - orders-keys: [27 5, 3 33, 21 31, 3 5] || newLoc: 7 26
+2778 DEBUG [main] GebiBot  - orders-keys: [27 5, 3 33, 7 26, 21 31, 3 5] || newLoc: 40 33
+2778 DEBUG [main] GebiBot  - orders-keys: [40 33, 27 5, 3 33, 7 26, 21 31, 3 5] || newLoc: 23 20
+2779 DEBUG [main] GebiBot  - orders-keys: [40 33, 27 5, 3 33, 7 26, 21 31, 3 5, 23 20] || newLoc: 14 5
+2779 DEBUG [main] GebiBot  - orders-keys: [40 33, 27 5, 3 33, 28 19, 7 26, 21 31, 3 5, 23 20, 14 5] || newLoc: 21 5
+2780 DEBUG [main] GebiBot  - orders-keys: [40 33, 27 5, 3 33, 28 19, 7 26, 21 31, 3 5, 23 20, 21 5, 14 5] || newLoc: 24 18
+2780 DEBUG [main] GebiBot  - orders-keys: [40 33, 27 5, 3 33, 28 19, 7 26, 21 31, 3 5, 23 20, 24 18, 21 5, 14 5] || newLoc: 24 19
+2811 DEBUG [main] GebiBot  - ------ turn 47 --------
+2812 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 26 5
+2813 DEBUG [main] GebiBot  - orders-keys: [26 5] || newLoc: 21 32
+2813 DEBUG [main] GebiBot  - orders-keys: [21 32, 26 5] || newLoc: 4 5
+2813 DEBUG [main] GebiBot  - orders-keys: [21 32, 4 5, 26 5] || newLoc: 4 33
+2813 DEBUG [main] GebiBot  - orders-keys: [21 32, 4 5, 26 5, 4 33] || newLoc: 7 25
+2814 DEBUG [main] GebiBot  - orders-keys: [21 32, 4 5, 7 25, 26 5, 4 33] || newLoc: 41 33
+2814 DEBUG [main] GebiBot  - orders-keys: [21 32, 4 5, 41 33, 7 25, 26 5, 4 33] || newLoc: 25 19
+2814 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 41 33, 7 25, 26 5, 4 33] || newLoc: 15 5
+2815 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 15 5, 28 19, 41 33, 7 25, 26 5, 4 33] || newLoc: 23 19
+2815 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 15 5, 28 19, 41 33, 7 25, 23 19, 26 5, 4 33] || newLoc: 24 20
+2816 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 15 5, 28 19, 41 33, 7 25, 23 19, 26 5, 4 33, 24 20] || newLoc: 20 5
+2816 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 20 5, 15 5, 28 19, 41 33, 7 25, 23 19, 26 5, 4 33, 24 20] || newLoc: 21 6
+2817 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 20 5, 15 5, 28 19, 41 33, 7 25, 23 19, 26 5, 21 6, 4 33, 24 20] || newLoc: 24 17
+2817 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 4 5, 20 5, 15 5, 28 19, 41 33, 7 25, 23 19, 26 5, 21 6, 24 17, 4 33, 24 20] || newLoc: 25 18
+2850 DEBUG [main] GebiBot  - ------ turn 48 --------
+2851 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 25 5
+2851 DEBUG [main] GebiBot  - orders-keys: [25 5] || newLoc: 21 33
+2852 DEBUG [main] GebiBot  - orders-keys: [25 5, 21 33] || newLoc: 5 5
+2852 DEBUG [main] GebiBot  - orders-keys: [25 5, 21 33, 5 5] || newLoc: 5 33
+2852 DEBUG [main] GebiBot  - orders-keys: [25 5, 21 33, 5 33, 5 5] || newLoc: 42 33
+2853 DEBUG [main] GebiBot  - orders-keys: [25 5, 42 33, 21 33, 5 33, 5 5] || newLoc: 26 19
+2853 DEBUG [main] GebiBot  - orders-keys: [25 5, 42 33, 21 33, 5 33, 5 5, 26 19] || newLoc: 25 20
+2853 DEBUG [main] GebiBot  - orders-keys: [25 5, 42 33, 25 20, 21 33, 5 33, 5 5, 26 19] || newLoc: 16 5
+2854 DEBUG [main] GebiBot  - orders-keys: [25 5, 16 5, 42 33, 25 20, 21 33, 5 33, 5 5, 26 19] || newLoc: 23 20
+2855 DEBUG [main] GebiBot  - orders-keys: [25 5, 16 5, 42 33, 25 20, 21 33, 5 33, 28 19, 23 20, 5 5, 26 19] || newLoc: 6 25
+2855 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 21 33, 5 33, 28 19, 23 20, 5 5, 26 19] || newLoc: 8 25
+2855 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 21 33, 5 33, 28 19, 23 20, 5 5, 8 25, 26 19] || newLoc: 7 24
+2856 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 21 33, 5 33, 28 19, 7 24, 23 20, 5 5, 8 25, 26 19] || newLoc: 19 5
+2856 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 21 33, 5 33, 28 19, 7 24, 19 5, 23 20, 5 5, 8 25, 26 19] || newLoc: 20 6
+2856 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 20 6, 21 33, 5 33, 28 19, 7 24, 19 5, 23 20, 5 5, 8 25, 26 19] || newLoc: 24 16
+2857 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 20 6, 21 33, 5 33, 28 19, 7 24, 19 5, 23 20, 5 5, 24 16, 8 25, 26 19] || newLoc: 24 18
+2857 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 20 6, 21 33, 5 33, 28 19, 7 24, 19 5, 23 20, 24 18, 5 5, 24 16, 8 25, 26 19] || newLoc: 25 17
+2857 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 20 6, 21 33, 25 17, 5 33, 28 19, 7 24, 19 5, 23 20, 24 18, 5 5, 24 16, 8 25, 26 19] || newLoc: 27 19
+2858 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 20 6, 21 33, 25 17, 5 33, 27 19, 28 19, 7 24, 19 5, 23 20, 24 18, 5 5, 24 16, 8 25, 26 19] || newLoc: 28 18
+2858 DEBUG [main] GebiBot  - orders-keys: [6 25, 25 5, 16 5, 42 33, 25 20, 20 6, 21 33, 25 17, 5 33, 27 19, 28 18, 28 19, 7 24, 19 5, 23 20, 24 18, 5 5, 24 16, 8 25, 26 19] || newLoc: 29 19
+2901 DEBUG [main] GebiBot  - ------ turn 49 --------
+2901 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 24 5
+2902 DEBUG [main] GebiBot  - orders-keys: [24 5] || newLoc: 6 5
+2902 DEBUG [main] GebiBot  - orders-keys: [6 5, 24 5] || newLoc: 6 33
+2902 DEBUG [main] GebiBot  - orders-keys: [6 5, 24 5, 6 33] || newLoc: 0 33
+2902 DEBUG [main] GebiBot  - orders-keys: [6 5, 0 33, 24 5, 6 33] || newLoc: 26 20
+2903 DEBUG [main] GebiBot  - orders-keys: [6 5, 0 33, 24 5, 6 33, 26 20] || newLoc: 17 5
+2903 DEBUG [main] GebiBot  - orders-keys: [6 5, 28 19, 17 5, 0 33, 24 5, 6 33, 26 20] || newLoc: 20 33
+2903 DEBUG [main] GebiBot  - orders-keys: [6 5, 28 19, 17 5, 0 33, 24 5, 20 33, 6 33, 26 20] || newLoc: 21 32
+2904 DEBUG [main] GebiBot  - orders-keys: [21 32, 6 5, 28 19, 17 5, 0 33, 24 5, 20 33, 6 33, 26 20] || newLoc: 25 19
+2904 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 24 5, 20 33, 6 33, 26 20] || newLoc: 26 18
+2905 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 24 5, 20 33, 26 18, 6 33, 26 20] || newLoc: 23 19
+2905 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 24 5, 23 19, 20 33, 26 18, 6 33, 26 20] || newLoc: 24 20
+2906 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 24 5, 23 19, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 5 25
+2906 DEBUG [main] GebiBot  - orders-keys: [21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 24 5, 5 25, 23 19, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 6 24
+2906 DEBUG [main] GebiBot  - orders-keys: [6 24, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 24 5, 5 25, 23 19, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 7 25
+2907 DEBUG [main] GebiBot  - orders-keys: [6 24, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 5 25, 23 19, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 18 5
+2907 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 5 25, 23 19, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 19 6
+2907 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 5 25, 23 19, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 23 16
+2908 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 5 25, 23 19, 23 16, 20 33, 24 20, 26 18, 6 33, 26 20] || newLoc: 24 17
+2908 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 5 25, 23 19, 23 16, 20 33, 24 17, 24 20, 26 18, 6 33, 26 20] || newLoc: 24 15
+2909 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 24 15, 5 25, 23 19, 23 16, 20 33, 24 17, 24 20, 26 18, 6 33, 26 20] || newLoc: 25 16
+2909 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 25 16, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 24 15, 5 25, 23 19, 23 16, 20 33, 24 17, 24 20, 26 18, 6 33, 26 20] || newLoc: 27 18
+2910 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 25 16, 27 18, 6 5, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 24 15, 5 25, 23 19, 23 16, 20 33, 24 17, 24 20, 26 18, 6 33, 26 20] || newLoc: 28 18
+2910 DEBUG [main] GebiBot  - orders-keys: [6 24, 18 5, 21 32, 25 19, 25 16, 27 18, 6 5, 28 18, 28 19, 17 5, 0 33, 7 25, 24 5, 19 6, 24 15, 5 25, 23 19, 23 16, 20 33, 24 17, 24 20, 26 18, 6 33, 26 20] || newLoc: 29 19
+2949 DEBUG [main] GebiBot  - ------ turn 50 --------
+2950 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 23 5
+2950 DEBUG [main] GebiBot  - orders-keys: [23 5] || newLoc: 7 5
+2951 DEBUG [main] GebiBot  - orders-keys: [7 5, 23 5] || newLoc: 7 33
+2951 DEBUG [main] GebiBot  - orders-keys: [7 33, 7 5, 23 5] || newLoc: 1 33
+2951 DEBUG [main] GebiBot  - orders-keys: [1 33, 7 33, 7 5, 23 5] || newLoc: 27 20
+2951 DEBUG [main] GebiBot  - orders-keys: [1 33, 27 20, 7 33, 7 5, 23 5] || newLoc: 26 18
+2952 DEBUG [main] GebiBot  - orders-keys: [1 33, 27 20, 7 33, 28 19, 26 18, 7 5, 23 5] || newLoc: 16 5
+2953 DEBUG [main] GebiBot  - orders-keys: [16 5, 1 33, 27 20, 7 33, 28 19, 26 18, 7 5, 23 5] || newLoc: 17 6
+2953 DEBUG [main] GebiBot  - orders-keys: [16 5, 1 33, 27 20, 7 33, 17 6, 28 19, 26 18, 7 5, 23 5] || newLoc: 4 25
+2953 DEBUG [main] GebiBot  - orders-keys: [16 5, 1 33, 4 25, 27 20, 7 33, 17 6, 28 19, 26 18, 7 5, 23 5] || newLoc: 5 24
+2954 DEBUG [main] GebiBot  - orders-keys: [16 5, 1 33, 4 25, 27 20, 7 33, 17 6, 28 19, 5 24, 26 18, 7 5, 23 5] || newLoc: 6 25
+2954 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 27 20, 7 33, 17 6, 28 19, 5 24, 26 18, 7 5, 23 5] || newLoc: 18 6
+2955 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 18 6, 27 20, 7 33, 17 6, 28 19, 5 24, 26 18, 7 5, 23 5] || newLoc: 19 33
+2955 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 5 24, 26 18, 7 5, 23 5] || newLoc: 20 32
+2955 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 5 24, 20 32, 26 18, 7 5, 23 5] || newLoc: 22 16
+2956 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 5 24, 20 32, 26 18, 7 5, 23 5] || newLoc: 23 15
+2956 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 5 24, 20 32, 23 15, 26 18, 7 5, 23 5] || newLoc: 24 16
+2957 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 5 24, 20 32, 23 15, 24 16, 26 18, 7 5, 23 5] || newLoc: 23 18
+2957 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 23 18, 5 24, 20 32, 23 15, 24 16, 26 18, 7 5, 23 5] || newLoc: 24 19
+2958 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 27 20, 7 33, 17 6, 28 19, 23 18, 5 24, 20 32, 24 19, 23 15, 24 16, 26 18, 7 5, 23 5] || newLoc: 25 18
+2958 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 25 18, 27 20, 7 33, 17 6, 28 19, 23 18, 5 24, 20 32, 24 19, 23 15, 24 16, 26 18, 7 5, 23 5] || newLoc: 26 19
+2959 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 25 18, 27 20, 7 33, 17 6, 28 19, 23 18, 5 24, 20 32, 24 19, 23 15, 24 16, 26 18, 26 19, 7 5, 23 5] || newLoc: 28 17
+2959 DEBUG [main] GebiBot  - orders-keys: [6 25, 16 5, 1 33, 4 25, 22 16, 18 6, 19 33, 25 18, 27 20, 7 33, 17 6, 28 19, 28 17, 23 18, 5 24, 20 32, 24 19, 23 15, 24 16, 26 18, 26 19, 7 5, 23 5] || newLoc: 29 18
+2997 DEBUG [main] GebiBot  - ------ turn 51 --------
+2997 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 22 5
+2997 DEBUG [main] GebiBot  - orders-keys: [22 5] || newLoc: 7 32
+2998 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5] || newLoc: 2 33
+2998 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 2 33] || newLoc: 28 20
+2998 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 28 20, 2 33] || newLoc: 26 17
+2999 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 28 20, 2 33, 26 17] || newLoc: 17 6
+2999 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 17 6, 28 19, 28 20, 2 33, 26 17] || newLoc: 21 16
+3000 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 17 6, 28 19, 28 20, 21 16, 2 33, 26 17] || newLoc: 23 19
+3000 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 17 6, 28 19, 28 20, 21 16, 2 33, 23 19, 26 17] || newLoc: 24 18
+3001 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 17 6, 28 19, 28 20, 21 16, 2 33, 23 19, 24 18, 26 17] || newLoc: 5 25
+3001 DEBUG [main] GebiBot  - orders-keys: [7 32, 22 5, 17 6, 28 19, 28 20, 21 16, 2 33, 5 25, 23 19, 24 18, 26 17] || newLoc: 15 5
+3001 DEBUG [main] GebiBot  - orders-keys: [15 5, 7 32, 22 5, 17 6, 28 19, 28 20, 21 16, 2 33, 5 25, 23 19, 24 18, 26 17] || newLoc: 27 17
+3002 DEBUG [main] GebiBot  - orders-keys: [15 5, 7 32, 27 17, 22 5, 17 6, 28 19, 28 20, 21 16, 2 33, 5 25, 23 19, 24 18, 26 17] || newLoc: 18 33
+3002 DEBUG [main] GebiBot  - orders-keys: [15 5, 7 32, 27 17, 22 5, 17 6, 28 19, 28 20, 21 16, 18 33, 2 33, 5 25, 23 19, 24 18, 26 17] || newLoc: 8 5
+3035 DEBUG [main] GebiBot  - ------ turn 52 --------
+3036 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 21 5
+3036 DEBUG [main] GebiBot  - orders-keys: [21 5] || newLoc: 9 5
+3037 DEBUG [main] GebiBot  - orders-keys: [9 5, 21 5] || newLoc: 7 31
+3037 DEBUG [main] GebiBot  - orders-keys: [9 5, 7 31, 21 5] || newLoc: 3 33
+3037 DEBUG [main] GebiBot  - orders-keys: [9 5, 3 33, 7 31, 21 5] || newLoc: 29 20
+3037 DEBUG [main] GebiBot  - orders-keys: [9 5, 29 20, 3 33, 7 31, 21 5] || newLoc: 25 17
+3038 DEBUG [main] GebiBot  - orders-keys: [9 5, 29 20, 3 33, 25 17, 7 31, 21 5] || newLoc: 16 6
+3038 DEBUG [main] GebiBot  - orders-keys: [9 5, 29 20, 16 6, 3 33, 25 17, 7 31, 21 5] || newLoc: 6 25
+3038 DEBUG [main] GebiBot  - orders-keys: [6 25, 9 5, 29 20, 16 6, 3 33, 25 17, 7 31, 21 5] || newLoc: 14 5
+3038 DEBUG [main] GebiBot  - orders-keys: [6 25, 9 5, 29 20, 16 6, 3 33, 25 17, 7 31, 21 5, 14 5] || newLoc: 17 33
+3039 DEBUG [main] GebiBot  - orders-keys: [6 25, 9 5, 29 20, 16 6, 17 33, 3 33, 25 17, 7 31, 21 5, 14 5] || newLoc: 20 16
+3039 DEBUG [main] GebiBot  - orders-keys: [6 25, 9 5, 29 20, 20 16, 16 6, 17 33, 3 33, 25 17, 7 31, 21 5, 14 5] || newLoc: 23 18
+3039 DEBUG [main] GebiBot  - orders-keys: [6 25, 9 5, 29 20, 20 16, 16 6, 17 33, 3 33, 25 17, 7 31, 23 18, 21 5, 14 5] || newLoc: 27 18
+3040 DEBUG [main] GebiBot  - orders-keys: [6 25, 9 5, 29 20, 20 16, 16 6, 17 33, 3 33, 25 17, 27 18, 28 19, 7 31, 23 18, 21 5, 14 5] || newLoc: 24 19
+3076 DEBUG [main] GebiBot  - ------ turn 53 --------
+3077 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 10 5
+3077 DEBUG [main] GebiBot  - orders-keys: [10 5] || newLoc: 7 30
+3078 DEBUG [main] GebiBot  - orders-keys: [7 30, 10 5] || newLoc: 4 33
+3078 DEBUG [main] GebiBot  - orders-keys: [7 30, 10 5, 4 33] || newLoc: 30 20
+3078 DEBUG [main] GebiBot  - orders-keys: [7 30, 10 5, 30 20, 4 33] || newLoc: 24 17
+3078 DEBUG [main] GebiBot  - orders-keys: [7 30, 10 5, 30 20, 24 17, 4 33] || newLoc: 15 6
+3079 DEBUG [main] GebiBot  - orders-keys: [15 6, 7 30, 10 5, 30 20, 24 17, 4 33] || newLoc: 7 25
+3079 DEBUG [main] GebiBot  - orders-keys: [15 6, 7 30, 7 25, 10 5, 30 20, 24 17, 4 33] || newLoc: 14 6
+3079 DEBUG [main] GebiBot  - orders-keys: [15 6, 7 30, 7 25, 10 5, 30 20, 24 17, 4 33, 14 6] || newLoc: 16 33
+3079 DEBUG [main] GebiBot  - orders-keys: [15 6, 16 33, 7 30, 7 25, 10 5, 30 20, 24 17, 4 33, 14 6] || newLoc: 19 16
+3080 DEBUG [main] GebiBot  - orders-keys: [15 6, 16 33, 7 30, 7 25, 10 5, 30 20, 24 17, 4 33, 19 16, 14 6] || newLoc: 25 19
+3080 DEBUG [main] GebiBot  - orders-keys: [25 19, 15 6, 16 33, 7 30, 7 25, 10 5, 30 20, 24 17, 4 33, 19 16, 14 6] || newLoc: 23 19
+3080 DEBUG [main] GebiBot  - orders-keys: [25 19, 15 6, 16 33, 7 30, 7 25, 23 19, 10 5, 30 20, 24 17, 4 33, 19 16, 14 6] || newLoc: 26 18
+3081 DEBUG [main] GebiBot  - orders-keys: [25 19, 15 6, 28 19, 16 33, 7 30, 7 25, 23 19, 10 5, 30 20, 24 17, 4 33, 26 18, 19 16, 14 6] || newLoc: 20 5
+3119 DEBUG [main] GebiBot  - ------ turn 54 --------
+3120 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 19 5
+3120 DEBUG [main] GebiBot  - orders-keys: [19 5] || newLoc: 11 5
+3120 DEBUG [main] GebiBot  - orders-keys: [11 5, 19 5] || newLoc: 7 29
+3121 DEBUG [main] GebiBot  - orders-keys: [11 5, 7 29, 19 5] || newLoc: 5 33
+3121 DEBUG [main] GebiBot  - orders-keys: [11 5, 5 33, 7 29, 19 5] || newLoc: 31 20
+3121 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 7 29, 19 5] || newLoc: 24 16
+3122 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 7 29, 19 5, 24 16] || newLoc: 15 7
+3122 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 15 7, 7 29, 19 5, 24 16] || newLoc: 8 25
+3122 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 15 7, 7 29, 19 5, 24 16, 8 25] || newLoc: 14 7
+3123 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 15 7, 7 29, 19 5, 24 16, 8 25, 14 7] || newLoc: 15 33
+3123 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 15 7, 7 29, 19 5, 24 16, 8 25, 15 33, 14 7] || newLoc: 18 16
+3123 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 15 7, 18 16, 7 29, 19 5, 24 16, 8 25, 15 33, 14 7] || newLoc: 26 19
+3123 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 5 33, 15 7, 18 16, 7 29, 19 5, 24 16, 26 19, 8 25, 15 33, 14 7] || newLoc: 25 18
+3124 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 25 18, 5 33, 15 7, 18 16, 7 29, 28 19, 19 5, 24 16, 26 19, 8 25, 15 33, 14 7] || newLoc: 23 18
+3124 DEBUG [main] GebiBot  - orders-keys: [11 5, 31 20, 25 18, 5 33, 15 7, 18 16, 7 29, 28 19, 19 5, 23 18, 24 16, 26 19, 8 25, 15 33, 14 7] || newLoc: 24 19
+3162 DEBUG [main] GebiBot  - ------ turn 55 --------
+3163 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 18 5
+3163 DEBUG [main] GebiBot  - orders-keys: [18 5] || newLoc: 12 5
+3163 DEBUG [main] GebiBot  - orders-keys: [18 5, 12 5] || newLoc: 7 28
+3163 DEBUG [main] GebiBot  - orders-keys: [18 5, 7 28, 12 5] || newLoc: 6 33
+3164 DEBUG [main] GebiBot  - orders-keys: [18 5, 7 28, 12 5, 6 33] || newLoc: 32 20
+3164 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 7 28, 12 5, 6 33] || newLoc: 23 16
+3164 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 7 28, 23 16, 12 5, 6 33] || newLoc: 15 8
+3165 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 15 8, 7 28, 23 16, 12 5, 6 33] || newLoc: 9 25
+3165 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 15 8, 9 25, 7 28, 23 16, 12 5, 6 33] || newLoc: 14 8
+3165 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 15 8, 9 25, 7 28, 23 16, 14 8, 12 5, 6 33] || newLoc: 14 33
+3165 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 15 8, 14 33, 9 25, 7 28, 23 16, 14 8, 12 5, 6 33] || newLoc: 27 19
+3166 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 15 8, 14 33, 27 19, 9 25, 7 28, 23 16, 14 8, 12 5, 6 33] || newLoc: 24 18
+3166 DEBUG [main] GebiBot  - orders-keys: [18 5, 32 20, 15 8, 14 33, 27 19, 9 25, 28 19, 7 28, 23 16, 24 18, 14 8, 12 5, 6 33] || newLoc: 23 19
+3200 DEBUG [main] GebiBot  - ------ turn 56 --------
+3201 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 17 5
+3201 DEBUG [main] GebiBot  - orders-keys: [17 5] || newLoc: 13 5
+3202 DEBUG [main] GebiBot  - orders-keys: [13 5, 17 5] || newLoc: 7 27
+3202 DEBUG [main] GebiBot  - orders-keys: [13 5, 17 5, 7 27] || newLoc: 7 33
+3202 DEBUG [main] GebiBot  - orders-keys: [13 5, 7 33, 17 5, 7 27] || newLoc: 33 20
+3202 DEBUG [main] GebiBot  - orders-keys: [13 5, 7 33, 17 5, 7 27, 33 20] || newLoc: 22 16
+3203 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 7 33, 17 5, 7 27, 33 20] || newLoc: 15 9
+3203 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 15 9, 7 33, 17 5, 7 27, 33 20] || newLoc: 10 25
+3203 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 15 9, 7 33, 17 5, 7 27, 10 25, 33 20] || newLoc: 14 9
+3203 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 15 9, 7 33, 17 5, 7 27, 14 9, 10 25, 33 20] || newLoc: 14 32
+3204 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 15 9, 14 32, 7 33, 17 5, 7 27, 14 9, 10 25, 33 20] || newLoc: 27 18
+3204 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 15 9, 14 32, 27 18, 7 33, 17 5, 7 27, 14 9, 10 25, 33 20] || newLoc: 23 18
+3205 DEBUG [main] GebiBot  - orders-keys: [22 16, 13 5, 15 9, 14 32, 27 18, 7 33, 28 19, 17 5, 7 27, 23 18, 14 9, 10 25, 33 20] || newLoc: 24 19
+3240 DEBUG [main] GebiBot  - ------ turn 57 --------
+3241 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 16 5
+3241 DEBUG [main] GebiBot  - orders-keys: [16 5] || newLoc: 14 5
+3241 DEBUG [main] GebiBot  - orders-keys: [16 5, 14 5] || newLoc: 7 26
+3242 DEBUG [main] GebiBot  - orders-keys: [16 5, 7 26, 14 5] || newLoc: 7 32
+3242 DEBUG [main] GebiBot  - orders-keys: [16 5, 7 32, 7 26, 14 5] || newLoc: 34 20
+3242 DEBUG [main] GebiBot  - orders-keys: [16 5, 34 20, 7 32, 7 26, 14 5] || newLoc: 21 16
+3243 DEBUG [main] GebiBot  - orders-keys: [16 5, 34 20, 7 32, 21 16, 7 26, 14 5] || newLoc: 15 10
+3243 DEBUG [main] GebiBot  - orders-keys: [16 5, 15 10, 34 20, 7 32, 21 16, 7 26, 14 5] || newLoc: 11 25
+3243 DEBUG [main] GebiBot  - orders-keys: [16 5, 11 25, 15 10, 34 20, 7 32, 21 16, 7 26, 14 5] || newLoc: 14 10
+3244 DEBUG [main] GebiBot  - orders-keys: [16 5, 11 25, 15 10, 34 20, 7 32, 21 16, 7 26, 14 10, 14 5] || newLoc: 14 31
+3244 DEBUG [main] GebiBot  - orders-keys: [16 5, 11 25, 15 10, 34 20, 7 32, 14 31, 21 16, 7 26, 14 10, 14 5] || newLoc: 28 18
+3244 DEBUG [main] GebiBot  - orders-keys: [16 5, 11 25, 15 10, 34 20, 7 32, 28 18, 14 31, 21 16, 7 26, 14 10, 14 5] || newLoc: 23 19
+3245 DEBUG [main] GebiBot  - orders-keys: [16 5, 11 25, 15 10, 34 20, 7 32, 28 18, 14 31, 21 16, 7 26, 23 19, 14 10, 14 5] || newLoc: 25 19
+3279 DEBUG [main] GebiBot  - ------ turn 58 --------
+3279 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 15 5
+3280 DEBUG [main] GebiBot  - orders-keys: [15 5] || newLoc: 14 6
+3280 DEBUG [main] GebiBot  - orders-keys: [15 5, 14 6] || newLoc: 7 25
+3280 DEBUG [main] GebiBot  - orders-keys: [15 5, 7 25, 14 6] || newLoc: 7 31
+3280 DEBUG [main] GebiBot  - orders-keys: [15 5, 7 31, 7 25, 14 6] || newLoc: 35 20
+3281 DEBUG [main] GebiBot  - orders-keys: [15 5, 7 31, 7 25, 35 20, 14 6] || newLoc: 20 16
+3281 DEBUG [main] GebiBot  - orders-keys: [20 16, 15 5, 7 31, 7 25, 35 20, 14 6] || newLoc: 15 11
+3281 DEBUG [main] GebiBot  - orders-keys: [20 16, 15 11, 15 5, 7 31, 7 25, 35 20, 14 6] || newLoc: 12 25
+3281 DEBUG [main] GebiBot  - orders-keys: [20 16, 15 11, 15 5, 7 31, 7 25, 12 25, 35 20, 14 6] || newLoc: 14 11
+3282 DEBUG [main] GebiBot  - orders-keys: [20 16, 15 11, 15 5, 7 31, 7 25, 12 25, 14 11, 35 20, 14 6] || newLoc: 14 30
+3282 DEBUG [main] GebiBot  - orders-keys: [20 16, 15 11, 15 5, 7 31, 7 25, 14 30, 12 25, 14 11, 35 20, 14 6] || newLoc: 29 18
+3282 DEBUG [main] GebiBot  - orders-keys: [20 16, 29 18, 15 11, 15 5, 7 31, 7 25, 14 30, 12 25, 14 11, 35 20, 14 6] || newLoc: 26 19
+3283 DEBUG [main] GebiBot  - orders-keys: [20 16, 29 18, 15 11, 15 5, 28 19, 7 31, 7 25, 14 30, 12 25, 14 11, 26 19, 35 20, 14 6] || newLoc: 23 18
+3283 DEBUG [main] GebiBot  - orders-keys: [20 16, 29 18, 15 11, 15 5, 28 19, 7 31, 7 25, 14 30, 12 25, 23 18, 14 11, 26 19, 35 20, 14 6] || newLoc: 24 19
+3311 DEBUG [main] GebiBot  - ------ turn 59 --------
+3312 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 14 5
+3312 DEBUG [main] GebiBot  - orders-keys: [14 5] || newLoc: 14 7
+3312 DEBUG [main] GebiBot  - orders-keys: [14 5, 14 7] || newLoc: 7 30
+3313 DEBUG [main] GebiBot  - orders-keys: [7 30, 14 5, 14 7] || newLoc: 36 20
+3313 DEBUG [main] GebiBot  - orders-keys: [36 20, 7 30, 14 5, 14 7] || newLoc: 19 16
+3313 DEBUG [main] GebiBot  - orders-keys: [36 20, 7 30, 14 5, 14 7, 19 16] || newLoc: 13 25
+3313 DEBUG [main] GebiBot  - orders-keys: [36 20, 13 25, 7 30, 14 5, 14 7, 19 16] || newLoc: 14 29
+3314 DEBUG [main] GebiBot  - orders-keys: [36 20, 13 25, 7 30, 14 29, 14 5, 14 7, 19 16] || newLoc: 30 18
+3314 DEBUG [main] GebiBot  - orders-keys: [36 20, 13 25, 7 30, 14 29, 30 18, 14 5, 14 7, 19 16] || newLoc: 27 19
+3314 DEBUG [main] GebiBot  - orders-keys: [36 20, 13 25, 27 19, 28 19, 7 30, 14 29, 30 18, 14 5, 14 7, 19 16] || newLoc: 23 19
+3315 DEBUG [main] GebiBot  - orders-keys: [36 20, 13 25, 27 19, 28 19, 7 30, 14 29, 30 18, 23 19, 14 5, 14 7, 19 16] || newLoc: 8 25
+3348 DEBUG [main] GebiBot  - ------ turn 60 --------
+3348 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 14 6
+3348 DEBUG [main] GebiBot  - orders-keys: [14 6] || newLoc: 14 8
+3349 DEBUG [main] GebiBot  - orders-keys: [14 8, 14 6] || newLoc: 9 25
+3349 DEBUG [main] GebiBot  - orders-keys: [9 25, 14 8, 14 6] || newLoc: 7 29
+3349 DEBUG [main] GebiBot  - orders-keys: [9 25, 7 29, 14 8, 14 6] || newLoc: 37 20
+3349 DEBUG [main] GebiBot  - orders-keys: [9 25, 7 29, 37 20, 14 8, 14 6] || newLoc: 18 16
+3350 DEBUG [main] GebiBot  - orders-keys: [18 16, 9 25, 7 29, 37 20, 14 8, 14 6] || newLoc: 14 25
+3350 DEBUG [main] GebiBot  - orders-keys: [18 16, 9 25, 7 29, 14 25, 37 20, 14 8, 14 6] || newLoc: 14 28
+3350 DEBUG [main] GebiBot  - orders-keys: [18 16, 9 25, 7 29, 14 25, 14 28, 37 20, 14 8, 14 6] || newLoc: 31 18
+3351 DEBUG [main] GebiBot  - orders-keys: [31 18, 18 16, 9 25, 7 29, 14 25, 14 28, 37 20, 14 8, 14 6] || newLoc: 27 18
+3351 DEBUG [main] GebiBot  - orders-keys: [31 18, 18 16, 27 18, 9 25, 7 29, 28 19, 14 25, 14 28, 37 20, 14 8, 14 6] || newLoc: 23 18
+3351 DEBUG [main] GebiBot  - orders-keys: [31 18, 18 16, 27 18, 9 25, 7 29, 28 19, 14 25, 14 28, 37 20, 23 18, 14 8, 14 6] || newLoc: 24 19
+3382 DEBUG [main] GebiBot  - ------ turn 61 --------
+3382 DEBUG [main] GebiBot  - orders-keys: [] || newLoc: 14 7
+3382 DEBUG [main] GebiBot  - orders-keys: [14 7] || newLoc: 14 9
+3383 DEBUG [main] GebiBot  - orders-keys: [14 9, 14 7] || newLoc: 10 25
+3383 DEBUG [main] GebiBot  - orders-keys: [14 9, 10 25, 14 7] || newLoc: 7 28
+3383 DEBUG [main] GebiBot  - orders-keys: [7 28, 14 9, 10 25, 14 7] || newLoc: 38 20
+3383 DEBUG [main] GebiBot  - orders-keys: [38 20, 7 28, 14 9, 10 25, 14 7] || newLoc: 17 16
+3384 DEBUG [main] GebiBot  - orders-keys: [38 20, 7 28, 14 9, 10 25, 17 16, 14 7] || newLoc: 14 24
+3384 DEBUG [main] GebiBot  - orders-keys: [38 20, 14 24, 7 28, 14 9, 10 25, 17 16, 14 7] || newLoc: 14 27
+3384 DEBUG [main] GebiBot  - orders-keys: [38 20, 14 24, 7 28, 14 27, 14 9, 10 25, 17 16, 14 7] || newLoc: 32 18
+3385 DEBUG [main] GebiBot  - orders-keys: [38 20, 32 18, 14 24, 7 28, 14 27, 14 9, 10 25, 17 16, 14 7] || newLoc: 28 18
+3385 DEBUG [main] GebiBot  - orders-keys: [38 20, 32 18, 28 18, 14 24, 28 19, 7 28, 14 27, 14 9, 10 25, 17 16, 14 7] || newLoc: 23 19

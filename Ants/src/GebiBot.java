@@ -39,6 +39,8 @@ public class GebiBot extends Bot {
 	private Set<Tile> enemyHills = new HashSet<Tile>();
 	
 	private List<Ant> myAntList = new ArrayList<Ant>();
+	
+	private int turn = 0;
 
 	/**
 	 * Main method executed by the game engine for starting the bot.
@@ -64,13 +66,19 @@ public class GebiBot extends Bot {
 	 */
 	@Override
 	public void doTurn() {
+		
+		turn++;
+		
+		logger.debug("------ turn " + turn + " --------");
+		
+		orders.clear();
 
 		Ants ants = getAnts();
 		
 		createAntList(ants);
 		letAntsMove();
 		
-		orders.clear();
+		
 
 		// prevent stepping on own hill
 		for (Tile myHill : ants.getMyHills()) {
