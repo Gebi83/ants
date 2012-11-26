@@ -50,10 +50,12 @@ public class GebiBot extends Bot {
 	public static void main(String[] args) throws IOException {
 		
 		PropertyConfigurator.configure(".\\src\\log4j.properties");
-		new GebiBot().readSystemInput();
-		
 		logger = Logger.getLogger(GebiBot.class.getCanonicalName());
 		logger.error("Test");
+		
+		new GebiBot().readSystemInput();
+		
+		
 	}
 
 	/**
@@ -310,7 +312,7 @@ public class GebiBot extends Bot {
 		if (ants.getIlk(newLoc).isUnoccupied() && !orders.containsKey(newLoc)
 				&& !forbiddenPositions.contains(newLoc)) {
 			ants.issueOrder(antLoc, direction);
-			System.out.println("orders-keys: " + orders.keySet() + " || newLoc: " + newLoc);
+			logger.debug("orders-keys: " + orders.keySet() + " || newLoc: " + newLoc);
 			orders.put(newLoc, antLoc);//TODO remove old version
 			
 			//set new next position for ant
@@ -341,7 +343,7 @@ public class GebiBot extends Bot {
 		}
 		
 		if (ant == null) {
-			System.err.println("no ant found for position");
+			logger.debug("no ant found for position");
 		}
 		return ant;
 	}
