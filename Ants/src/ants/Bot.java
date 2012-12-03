@@ -1,3 +1,4 @@
+package ants;
 
 /**
  * Provides basic game state handling.

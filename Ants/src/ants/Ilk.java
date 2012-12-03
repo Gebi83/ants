@@ -1,3 +1,4 @@
+package ants;
 
 /**
  * Represents type of tile on the game map.

@@ -1,3 +1,4 @@
+package ants;
 
 /**
  * represents one ant with its position, next step (next position) and its destination.
@@ -19,6 +20,8 @@ public class Ant {
 	 * destination
 	 */
 	private Tile destination;
+
+	private Route route;
 
 	public Ant(Tile position) {
 		this.position = position;
@@ -46,6 +49,15 @@ public class Ant {
 
 	public void setNextPosition(Tile nextPosition) {
 		this.nextPosition = nextPosition;
+	}
+
+	public void setRoute(Route route) {
+		this.route = route;	
+	}
+	
+	
+	public Route getRoute() {
+		return route;
 	}
 
 	

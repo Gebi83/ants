@@ -1,3 +1,4 @@
+package ants;
 
 import java.io.IOException;
 
